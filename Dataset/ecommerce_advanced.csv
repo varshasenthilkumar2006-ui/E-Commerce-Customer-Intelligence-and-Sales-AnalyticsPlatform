@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Name,State,Category,Product_Name,Quantity,Sales,Profit
+1,2026-01-06,David Kulkarni,Manipur,Storage,Hard Disk,1,38223,2156.66
+2,2026-01-04,Aarini Munshi,Jharkhand,Furniture,Chair,3,19599,5820.7
+3,2026-02-27,Guneet Aurora,Mizoram,Accessories,Mouse,1,1253,109.56
+4,2026-07-01,Balvan Brar,Assam,Electronics,Printer,2,22051,4217.69
+5,2026-04-13,Meera Bala,Gujarat,Electronics,Monitor,4,44528,7893.4
+6,2025-10-12,Rajeshri Malhotra,Bihar,Electronics,Mobile,1,32173,4197.4
+7,2025-08-29,Vritti Chakraborty,Mizoram,Electronics,Mobile,2,35238,3902.17
+8,2026-06-26,Aarnav Dixit,Chhattisgarh,Electronics,Printer,3,32170,8066.02
+9,2025-10-10,Neelima Sampath,Bihar,Furniture,Chair,1,6752,2012.13
+10,2025-12-18,Leena Ranganathan,Telangana,Electronics,Laptop,5,41213,4273.59
+11,2026-03-30,Turvi Sur,Maharashtra,Electronics,Mobile,5,5362,1206.38
+12,2025-10-18,Praneel Chander,Kerala,Electronics,Laptop,2,39191,7979.25
+13,2025-09-13,Ekantika Dugar,Rajasthan,Storage,Hard Disk,2,39923,4930.93
+14,2026-07-08,Pushti Mani,Tripura,Electronics,Mobile,1,34844,1790.06
+15,2026-05-18,Isaiah Borde,Arunachal Pradesh,Electronics,Printer,4,40293,10121.01
+16,2025-12-09,Jai Desai,Andhra Pradesh,Electronics,Headphones,4,30070,5986.63
+17,2025-10-11,Yachana Ganesh,Arunachal Pradesh,Accessories,Keyboard,5,12446,2932.69
+18,2026-04-22,Ridhi Mohanty,Mizoram,Electronics,Camera,2,915,199.55
+19,2025-11-22,Azad Prabhu,Manipur,Electronics,Camera,4,12648,2495.56
+20,2025-10-03,Tanish Rege,Assam,Electronics,Camera,3,41676,6559.48
+21,2026-06-06,Amrita Thakur,Assam,Electronics,Mobile,3,25051,7146.53
+22,2025-08-27,Aadi Ray,Arunachal Pradesh,Electronics,Headphones,1,41956,4181.08
+23,2026-06-25,Ridhi Ahluwalia,Uttarakhand,Accessories,Keyboard,1,19352,4521.13
+24,2026-05-25,Damini Dhillon,Gujarat,Electronics,Speaker,5,6191,1376.01
+25,2025-11-27,Hemal Nazareth,Bihar,Electronics,Mobile,1,41818,6932.3
+26,2026-03-13,Prisha Basu,Manipur,Accessories,Mouse,2,9715,1012.12
+27,2026-04-08,Aachal Badami,Telangana,Furniture,Chair,1,43034,11302.7
+28,2026-04-03,Lohit Gaba,Sikkim,Furniture,Chair,3,34664,5597.01
+29,2026-05-04,Kashish Vig,Sikkim,Furniture,Table,1,42722,4830.25
+30,2026-07-21,Riya Grover,Chhattisgarh,Electronics,Camera,3,46316,9566.81
+31,2025-11-14,Rushil Mittal,Tripura,Furniture,Table,1,45444,9946.36
+32,2026-03-08,Meera Muni,Manipur,Electronics,Laptop,4,12522,2464.46
+33,2025-09-29,Aarini Venkatesh,Haryana,Furniture,Table,5,30939,4422.11
+34,2026-07-15,Veda Thaman,Manipur,Storage,Hard Disk,5,4409,888.38
+35,2026-07-18,Falguni Hans,Assam,Furniture,Table,4,37645,5521.42
+36,2025-11-27,Inaya Bassi,Chhattisgarh,Storage,Hard Disk,2,25646,3474.03
+37,2025-12-29,Reyansh Chaudhuri,Tamil Nadu,Networking,Router,1,38238,3920.77
+38,2026-01-20,Jonathan Dyal,Nagaland,Furniture,Table,2,31571,9466.21
+39,2026-03-22,Jagdish Dara,Assam,Electronics,Speaker,3,49346,7222.9
+40,2025-09-24,Harita Sibal,Goa,Storage,Hard Disk,2,8998,2050.46
+41,2025-11-23,Vivaan Palan,Sikkim,Furniture,Chair,1,23670,4239.36
+42,2026-07-26,Irya Shukla,Punjab,Electronics,Headphones,1,18114,3670.29
+43,2026-04-18,Caleb Raman,Gujarat,Electronics,Mobile,4,45620,2310.06
+44,2026-05-10,Chanchal Chand,Madhya Pradesh,Accessories,Mouse,4,42980,10762.99
+45,2026-01-05,Zashil Anne,Punjab,Electronics,Speaker,1,30035,3983.79
+46,2026-03-31,Divya Narula,Telangana,Networking,Router,3,24661,5700.5
+47,2025-10-14,Alexander Tak,Odisha,Electronics,Mobile,3,26935,3676.12
+48,2026-06-21,Qushi Mangal,Jharkhand,Electronics,Smart Watch,2,16407,2879.99
+49,2026-07-11,Warhi Goswami,Odisha,Electronics,Laptop,4,524,92.3
+50,2025-10-13,Abeer Soman,Tamil Nadu,Electronics,Mobile,4,48757,4190.61
+51,2026-07-30,Ekapad Sandal,Uttarakhand,Accessories,Keyboard,4,26940,6799.57
+52,2026-07-11,Bimala Goda,Andhra Pradesh,Electronics,Mobile,3,30940,3431.85
+53,2025-09-01,Brijesh Aggarwal,Assam,Storage,Hard Disk,2,20539,4946.37
+54,2025-12-28,Maanav Baria,Meghalaya,Electronics,Printer,3,29193,6441.02
+55,2025-10-11,Vritti Pandit,Nagaland,Storage,Hard Disk,2,46730,10131.52
+56,2025-09-04,Isaiah Krishnan,Goa,Electronics,Monitor,2,2674,144.38
+57,2025-12-14,Zaid Dass,Andhra Pradesh,Electronics,Laptop,3,29809,5910.21
+58,2026-01-12,Jalsa Dua,Telangana,Electronics,Camera,2,41547,2627.15
+59,2026-01-20,Zansi Rout,Tamil Nadu,Electronics,Headphones,1,43681,4196.36
+60,2026-06-22,Vasana Kamdar,Uttar Pradesh,Storage,Hard Disk,1,22287,3362.23
+61,2026-04-07,Hemang Ganesan,Gujarat,Storage,Hard Disk,4,45186,9682.8
+62,2025-10-23,Rushil Dayal,West Bengal,Electronics,Smart Watch,4,48784,7090.15
+63,2025-10-29,Hitesh Sandal,Odisha,Furniture,Chair,5,10754,2326.02
+64,2026-02-28,Idika Chopra,Haryana,Electronics,Printer,2,10346,1100.31
+65,2026-01-30,Vasana Wadhwa,Andhra Pradesh,Storage,Hard Disk,5,22390,5971.53
+66,2026-02-09,Yutika Brar,Telangana,Storage,SSD,4,49579,12454.34
+67,2026-06-21,Azad Gulati,Sikkim,Electronics,Smart Watch,4,5677,791.57
+68,2025-11-15,Advay Khosla,Jharkhand,Furniture,Chair,5,3408,924.43
+69,2026-07-25,Frado Balay,Telangana,Electronics,Camera,1,33253,6543.53
+70,2026-06-24,Jatin Subramanian,Uttar Pradesh,Storage,Hard Disk,2,45129,10880.6
+71,2026-07-13,Frederick Ahuja,Andhra Pradesh,Furniture,Chair,1,14919,3767.44
+72,2026-05-14,Bahadurjit Nath,Telangana,Electronics,Camera,2,40603,6013.15
+73,2026-07-19,Leena Kalla,Uttarakhand,Electronics,Mobile,3,1938,511.74
+74,2026-02-28,Gautam Karpe,Chhattisgarh,Networking,Router,4,2602,757.17
+75,2026-06-04,Eiravati Borah,Punjab,Electronics,Monitor,5,20800,2452.89
+76,2025-12-15,Krisha Mitter,Haryana,Furniture,Table,1,2665,279.12
+77,2026-07-15,Alexander Wali,Gujarat,Networking,Router,5,29388,3280.68
+78,2025-10-19,Om Kata,Jharkhand,Electronics,Smart Watch,5,36268,10291.82
+79,2025-12-14,Noah Singhal,Chhattisgarh,Electronics,Speaker,1,19313,5597.44
+80,2025-08-18,Sarthak Kari,Manipur,Storage,SSD,4,8988,1251.91
+81,2026-02-19,Bishakha Sinha,Andhra Pradesh,Networking,Router,2,30319,2905.69
+82,2025-11-18,Bakhshi Sahni,Nagaland,Electronics,Speaker,1,23829,5562.89
+83,2026-01-29,Aadhya Zachariah,Haryana,Accessories,Mouse,5,35085,8869.55
+84,2025-11-18,Imaran Natarajan,Assam,Electronics,Monitor,3,26560,5658.18
+85,2026-04-01,Nimrat Iyengar,Goa,Electronics,Laptop,5,29319,6490.74
+86,2026-03-27,Lipika Karpe,Tripura,Networking,Router,4,10971,1040.76
+87,2025-12-05,Dalbir Doctor,Gujarat,Furniture,Chair,1,14526,3560.93
+88,2025-08-26,Samuel Din,Karnataka,Storage,SSD,1,28437,6679.38
+89,2026-01-04,Ekaraj Dey,Jharkhand,Networking,Router,2,7455,752.29
+90,2026-01-22,Arjun Grover,Bihar,Electronics,Camera,1,48574,12151.95
+91,2026-04-10,Gabriel Rajagopal,Sikkim,Electronics,Mobile,1,20426,2002.57
+92,2025-12-15,Sai Gaba,Uttar Pradesh,Electronics,Speaker,2,20786,4735.76
+93,2026-02-27,Qabil Mann,Goa,Furniture,Table,3,49681,3322.57
+94,2025-09-17,Chanchal Prasad,Goa,Storage,SSD,3,28759,1889.71
+95,2026-03-13,Zarna Balasubramanian,Tamil Nadu,Electronics,Smart Watch,4,18901,3671.15
+96,2026-04-25,Udyati Randhawa,Meghalaya,Electronics,Camera,3,8890,2510.13
+97,2025-09-20,Nimrat Pal,Bihar,Electronics,Smart Watch,1,45309,12335.72
+98,2025-10-28,Wridesh Rout,Goa,Storage,SSD,4,14528,3248.49
+99,2026-04-15,Brijesh Bansal,Arunachal Pradesh,Electronics,Printer,4,18934,1700.01
+100,2026-02-14,Ekiya Hans,Kerala,Networking,Router,1,3747,818.37
+101,2025-12-17,Lucky Majumdar,Haryana,Furniture,Table,2,43818,6493.66
+102,2025-10-31,Zaitra Morar,Uttarakhand,Electronics,Smart Watch,4,41701,12126.74
+103,2026-03-29,Indali Pal,Arunachal Pradesh,Accessories,Keyboard,4,29729,8809.27
+104,2026-05-03,Radhika Doctor,Punjab,Electronics,Speaker,5,8520,2264.33
+105,2026-06-20,Tarak Tripathi,West Bengal,Furniture,Chair,3,23729,3205.37
+106,2026-03-18,Chandran Subramanian,Meghalaya,Electronics,Camera,3,47662,11696.12
+107,2026-07-22,Yoshita Sastry,Andhra Pradesh,Electronics,Speaker,5,20940,1510.08
+108,2025-12-15,Saanvi Mani,Odisha,Furniture,Table,2,40296,11146.72
+109,2026-08-01,Farhan Pai,Odisha,Accessories,Mouse,2,49704,9496.07
+110,2026-04-12,Quincy Vyas,Madhya Pradesh,Electronics,Laptop,5,45876,2361.11
+111,2026-06-30,Isaiah Barman,Gujarat,Furniture,Chair,1,48633,5905.38
+112,2026-07-30,Ati Dasgupta,Tamil Nadu,Storage,SSD,5,45898,8073.39
+113,2025-10-22,Lakshmi Hans,Maharashtra,Storage,SSD,3,48808,9213.05
+114,2026-08-05,Anika Ram,Karnataka,Furniture,Chair,5,4594,967.43
+115,2025-10-30,Darika Tata,Kerala,Electronics,Printer,4,14338,4089.08
+116,2026-07-07,Isaac Ram,Tripura,Electronics,Headphones,2,41967,10448.69
+117,2026-02-20,Aashi Dar,Maharashtra,Accessories,Keyboard,3,815,188.67
+118,2026-05-01,Upma Sule,Odisha,Electronics,Mobile,3,29422,8735.65
+119,2025-12-31,Krishna Agarwal,Gujarat,Electronics,Laptop,5,49897,14305.13
+120,2026-03-02,Thomas Dua,Chhattisgarh,Electronics,Camera,4,33081,4110.84
+121,2025-09-22,Zayyan Basu,Sikkim,Networking,Router,5,24273,4546.01
+122,2026-03-28,Samuel Sane,Nagaland,Electronics,Smart Watch,2,26609,2265.37
+123,2025-08-16,Xavier Narain,Mizoram,Storage,Hard Disk,3,23869,3622.88
+124,2026-07-31,Netra Sant,Meghalaya,Accessories,Mouse,1,3930,512.43
+125,2025-10-03,Anmol Pai,Jharkhand,Electronics,Laptop,5,10060,2612.41
+126,2026-06-04,Vedant Lall,Chhattisgarh,Furniture,Chair,1,16983,2010.4
+127,2025-11-26,Lohit Zacharia,Andhra Pradesh,Electronics,Monitor,4,25572,6929.76
+128,2026-04-26,Aarav Kulkarni,West Bengal,Electronics,Monitor,5,44238,5147.57
+129,2025-10-06,Rudra Nanda,Haryana,Furniture,Chair,2,23414,6596.36
+130,2026-03-31,Damyanti Gara,Himachal Pradesh,Electronics,Speaker,3,41149,2626.65
+131,2025-12-04,Indira Sheth,Kerala,Electronics,Mobile,5,18078,3344.48
+132,2026-04-19,Logan Mannan,West Bengal,Furniture,Chair,1,44454,4611.95
+133,2026-03-07,Wazir Keer,Karnataka,Electronics,Speaker,5,20911,4116.65
+134,2026-05-26,Indrajit Anand,Manipur,Electronics,Headphones,5,49811,12204.79
+135,2025-10-25,Hemal Varma,Rajasthan,Furniture,Chair,4,9327,701.77
+136,2026-03-16,Qushi Sant,Goa,Electronics,Mobile,2,33442,9015.8
+137,2026-05-03,Tamanna Mani,Maharashtra,Electronics,Monitor,1,43844,4223.41
+138,2025-10-19,Aahana Grewal,Haryana,Accessories,Keyboard,4,2195,524.34
+139,2025-12-18,Ekaja Karnik,Mizoram,Accessories,Keyboard,3,11590,2388.1
+140,2026-01-26,Bhavani Shankar,Bihar,Electronics,Camera,4,16759,1028.2
+141,2025-11-21,Meghana Mangal,Andhra Pradesh,Electronics,Camera,1,4115,796.17
+142,2026-04-30,Januja Kade,Assam,Electronics,Smart Watch,5,13553,1328.24
+143,2025-12-16,Meghana Virk,Maharashtra,Electronics,Mobile,1,44459,5176.76
+144,2026-03-08,Ekanta Parmar,Telangana,Furniture,Chair,1,8126,572.13
+145,2025-09-22,Zinal Saran,Punjab,Storage,SSD,1,17992,1349.82
+146,2026-07-11,Upasna Chakrabarti,Himachal Pradesh,Accessories,Keyboard,3,6061,1506.24
+147,2025-12-23,Ansh Kara,Odisha,Electronics,Headphones,5,6053,381.77
+148,2026-04-01,Chaitaly Khalsa,Arunachal Pradesh,Networking,Router,4,38431,4868.13
+149,2026-02-10,Jeremiah Kapur,Bihar,Electronics,Monitor,4,34271,2848.05
+150,2025-12-17,Faris Jhaveri,Chhattisgarh,Electronics,Headphones,2,644,103.62
+151,2026-08-03,Jeet Ghose,Chhattisgarh,Electronics,Camera,1,16920,2207.28
+152,2025-08-24,Bimala Venkatesh,Telangana,Electronics,Smart Watch,1,47384,3699.93
+153,2026-05-19,Ishita Lad,Mizoram,Electronics,Monitor,1,21215,4169.91
+154,2025-10-10,Deepa Ganesan,Sikkim,Electronics,Printer,1,37698,10118.14
+155,2025-12-19,Janya Nayak,Sikkim,Electronics,Mobile,2,18946,1862.22
+156,2025-12-19,Vrishti Agarwal,Odisha,Furniture,Table,4,29240,3953.22
+157,2025-08-22,Gaurav Dixit,Goa,Electronics,Mobile,5,22228,6490.34
+158,2025-10-25,Amara Minhas,Nagaland,Furniture,Table,5,46665,3185.71
+159,2026-01-11,Kevin Saha,Assam,Electronics,Camera,3,18176,2578.98
+160,2025-08-30,Sai Chaudhuri,Himachal Pradesh,Furniture,Table,3,26904,1604.83
+161,2026-01-11,Yashodhara Soman,Telangana,Electronics,Monitor,4,45998,5755.09
+162,2025-12-05,Falguni Raj,Bihar,Electronics,Camera,1,41211,8491.56
+163,2026-06-23,Mohini Pant,Tripura,Furniture,Chair,2,29702,5293.94
+164,2026-01-03,Yamini Shankar,Punjab,Electronics,Speaker,4,31036,7103.34
+165,2026-04-04,Ranbir Choudhary,Telangana,Storage,Hard Disk,3,12295,1285.15
+166,2026-01-27,Ekavir Rao,Andhra Pradesh,Electronics,Monitor,5,47710,7843.25
+167,2026-02-21,Fariq Zachariah,Bihar,Electronics,Headphones,1,33742,7573.21
+168,2026-06-09,Isaac Dar,Gujarat,Electronics,Headphones,4,15811,1531.05
+169,2026-06-17,Gaurang Cherian,Goa,Networking,Router,5,17094,2832.9
+170,2026-01-11,Robert Ganesh,Sikkim,Networking,Router,5,10945,785.31
+171,2026-06-07,Vritti Wali,Punjab,Furniture,Chair,4,5356,1236.17
+172,2026-01-14,Samarth Lall,Karnataka,Electronics,Camera,5,588,135.46
+173,2026-02-18,Eshana Brar,Kerala,Accessories,Mouse,3,7855,1851.25
+174,2026-04-28,Yug Jain,Meghalaya,Electronics,Laptop,3,39470,8194.23
+175,2025-10-15,Pratyush Bansal,Goa,Storage,SSD,5,24742,3343.6
+176,2025-08-21,Chaitanya Raju,West Bengal,Electronics,Laptop,1,38230,4130.79
+177,2025-09-08,Arin Agrawal,Bihar,Furniture,Chair,5,12777,1577.6
+178,2025-10-22,Neelima Bail,Madhya Pradesh,Storage,SSD,3,12578,729.38
+179,2025-12-31,Orinder Sharma,Andhra Pradesh,Accessories,Mouse,5,43477,10676.18
+180,2026-07-22,Hitesh Dubey,Arunachal Pradesh,Storage,Hard Disk,1,21723,4121.46
+181,2026-06-24,Amrita Krishna,Uttarakhand,Electronics,Mobile,2,18314,1004.18
+182,2026-05-25,Charles Bhargava,Kerala,Electronics,Monitor,3,7524,1097.81
+183,2026-07-22,Lopa Karnik,Nagaland,Furniture,Chair,2,6966,1779.72
+184,2025-11-15,Neha Dass,Mizoram,Electronics,Laptop,5,22288,6479.67
+185,2026-05-09,Chandresh Manda,Meghalaya,Electronics,Headphones,5,36297,10219.6
+186,2026-05-10,Riya Sahni,Mizoram,Storage,SSD,1,583,63.63
+187,2026-07-20,Chaitanya Singhal,Punjab,Electronics,Mobile,2,47025,13170.21
+188,2025-11-24,Isaiah Misra,Punjab,Storage,SSD,5,2144,582.51
+189,2025-10-21,Janya Mitter,Odisha,Accessories,Keyboard,1,18645,4709.49
+190,2026-06-04,Anika Lata,Nagaland,Electronics,Printer,1,24530,5210.66
+191,2025-12-16,Ekapad Thakkar,Manipur,Storage,SSD,5,49485,6338.52
+192,2026-03-12,Chaitanya Gole,Meghalaya,Storage,Hard Disk,5,20829,2659.31
+193,2026-04-29,Ekavir Raghavan,Sikkim,Storage,SSD,2,38755,9708.67
+194,2025-09-25,Warda Chanda,Telangana,Accessories,Keyboard,5,38200,4937.07
+195,2025-08-27,Varsha Mody,Nagaland,Electronics,Printer,4,20962,3856.9
+196,2026-04-09,Vedika Datta,Rajasthan,Electronics,Speaker,1,17259,4489.0
+197,2026-07-02,Irya Golla,Odisha,Electronics,Smart Watch,5,41709,4544.88
+198,2025-12-25,Nachiket Atwal,Tamil Nadu,Storage,SSD,5,39427,4526.9
+199,2026-06-18,Warinder Bandi,Himachal Pradesh,Furniture,Chair,4,1143,83.07
+200,2026-06-08,Matthew Johal,Odisha,Storage,SSD,2,27346,6582.72
+201,2026-03-04,Nihal Bava,Sikkim,Electronics,Mobile,5,14594,3127.99
+202,2025-11-24,Sathvik Sampath,Uttarakhand,Furniture,Chair,4,32892,2856.13
+203,2025-11-23,Nihal Singhal,Karnataka,Electronics,Mobile,1,16879,1526.79
+204,2025-09-27,Kalpit Viswanathan,Nagaland,Electronics,Laptop,2,20137,3806.26
+205,2025-08-17,William Pillai,Goa,Accessories,Mouse,5,5284,719.72
+206,2026-02-27,Rudra Thaman,Kerala,Electronics,Camera,4,16586,3878.15
+207,2025-08-13,Vaishnavi Raman,Karnataka,Accessories,Mouse,2,43878,11220.06
+208,2025-08-12,Dakshesh Sarraf,Meghalaya,Storage,SSD,4,12464,3661.43
+209,2026-01-25,Yadavi Butala,Bihar,Accessories,Keyboard,2,7820,2020.32
+210,2026-02-12,Siya Mallick,Gujarat,Electronics,Monitor,1,34948,1836.35
+211,2026-07-02,Maanas Bhavsar,Meghalaya,Electronics,Monitor,5,10547,3128.1
+212,2025-11-22,Frederick Konda,Jharkhand,Furniture,Table,4,8024,1153.18
+213,2026-01-19,Anirudh Bakshi,Manipur,Electronics,Camera,3,42705,5931.15
+214,2025-11-06,Ikbal Gole,West Bengal,Electronics,Camera,3,47139,8141.87
+215,2025-09-15,Damyanti Zachariah,Tamil Nadu,Accessories,Mouse,3,35444,5568.44
+216,2026-02-27,Chaitaly Biswas,West Bengal,Furniture,Chair,5,935,133.12
+217,2025-11-03,Turvi Padmanabhan,Rajasthan,Electronics,Smart Watch,1,34084,6964.34
+218,2026-07-31,Vaishnavi Nagi,Madhya Pradesh,Networking,Router,1,35143,4900.11
+219,2026-02-06,Hemal Gaba,Telangana,Furniture,Table,3,6964,484.05
+220,2026-07-14,Laban Shah,Haryana,Furniture,Table,4,27275,2203.04
+221,2026-05-29,Sachi Baral,Rajasthan,Electronics,Smart Watch,3,33548,4204.83
+222,2026-06-30,Faqid Arya,Telangana,Electronics,Headphones,2,22538,5102.79
+223,2026-05-18,Omya Narasimhan,Karnataka,Accessories,Mouse,3,36059,1820.54
+224,2026-01-05,Gavin Kamdar,Andhra Pradesh,Accessories,Mouse,3,39625,6157.73
+225,2026-03-18,Xiti Iyer,Uttar Pradesh,Electronics,Smart Watch,4,5682,1499.28
+226,2025-08-22,Ishanvi Comar,Assam,Electronics,Mobile,1,2496,380.59
+227,2026-01-12,Harshil Pradhan,Nagaland,Electronics,Laptop,5,40883,10642.71
+228,2026-01-13,Chameli Aggarwal,Andhra Pradesh,Electronics,Mobile,4,12902,2232.36
+229,2026-03-06,Suhani Bajwa,Andhra Pradesh,Electronics,Headphones,5,49615,9313.58
+230,2026-01-25,Vidhi Grewal,Chhattisgarh,Furniture,Chair,1,44748,13077.42
+231,2026-04-20,Harsh Sethi,Odisha,Accessories,Mouse,4,41432,5308.66
+232,2026-03-20,Chatura Nori,Haryana,Electronics,Printer,1,17059,3471.68
+233,2025-08-27,Orinder Nigam,West Bengal,Storage,Hard Disk,5,6758,945.95
+234,2025-08-27,Mason Mutti,Andhra Pradesh,Storage,SSD,2,30774,4575.45
+235,2026-01-26,Hardik Vyas,Himachal Pradesh,Accessories,Mouse,2,5402,1404.66
+236,2026-04-05,Chandresh Jaggi,Uttarakhand,Electronics,Speaker,5,28625,8053.02
+237,2026-01-19,Jacob Majumdar,Telangana,Electronics,Monitor,3,13976,743.33
+238,2026-07-12,Maya Narasimhan,Arunachal Pradesh,Accessories,Keyboard,4,43978,2721.25
+239,2026-04-08,Ekta Banik,Nagaland,Electronics,Laptop,3,25963,6376.27
+240,2026-02-06,Ekani Zachariah,Gujarat,Furniture,Table,2,36040,5064.76
+241,2025-09-17,Wazir Shukla,Himachal Pradesh,Electronics,Monitor,4,23860,4391.78
+242,2025-10-18,Arunima Bumb,Karnataka,Storage,Hard Disk,5,29595,7541.01
+243,2025-12-19,Aryan Char,Andhra Pradesh,Accessories,Mouse,3,20424,1430.72
+244,2026-02-20,Aarini Deep,Andhra Pradesh,Electronics,Speaker,3,44323,2232.53
+245,2025-08-14,Lopa Vaidya,Andhra Pradesh,Electronics,Smart Watch,5,16961,4122.45
+246,2025-09-19,Jyoti Taneja,Manipur,Electronics,Monitor,2,29341,7311.66
+247,2026-03-17,Varsha Edwin,Sikkim,Electronics,Headphones,4,19271,4228.76
+248,2025-11-07,Jack Datta,Tamil Nadu,Electronics,Monitor,3,12235,647.81
+249,2026-01-08,Maanav Mangal,Meghalaya,Electronics,Headphones,3,12498,3541.41
+250,2025-10-25,Panini Agrawal,Tamil Nadu,Storage,Hard Disk,4,43990,9724.43
+251,2025-12-20,Pushti Hayer,Madhya Pradesh,Electronics,Speaker,5,41060,9477.24
+252,2026-04-21,Panini Khurana,Meghalaya,Furniture,Chair,2,39394,3088.82
+253,2026-04-27,Guneet Johal,Meghalaya,Furniture,Table,1,25303,7563.04
+254,2026-08-08,Sathvik Wason,Telangana,Accessories,Keyboard,3,18475,3649.74
+255,2025-09-26,Aayush Bala,Uttar Pradesh,Storage,Hard Disk,5,12628,775.85
+256,2025-08-30,Alka Tak,Uttar Pradesh,Furniture,Chair,4,11238,1303.7
+257,2026-03-15,Brinda Sethi,Gujarat,Electronics,Mobile,5,38985,4057.63
+258,2026-05-15,Jeet Iyengar,Haryana,Electronics,Monitor,5,10117,975.29
+259,2025-09-28,Sudiksha Varghese,Gujarat,Electronics,Laptop,5,23661,4586.72
+260,2026-07-10,Aradhana Dube,Tripura,Electronics,Monitor,4,41088,4478.24
+261,2026-05-20,Saanvi Vala,Sikkim,Electronics,Mobile,2,25924,1443.05
+262,2026-06-28,Faras Balakrishnan,Chhattisgarh,Electronics,Camera,4,16354,2552.89
+263,2025-11-22,Varenya Kaur,Sikkim,Electronics,Laptop,4,44132,4539.73
+264,2026-06-09,Yashvi Char,Goa,Furniture,Table,2,19409,3226.22
+265,2026-01-27,Hredhaan Tank,Gujarat,Furniture,Table,4,40715,4120.97
+266,2025-12-02,Fariq Mangat,Arunachal Pradesh,Electronics,Printer,2,48674,2739.91
+267,2026-03-15,Krisha Parekh,Tripura,Electronics,Monitor,1,14178,2367.4
+268,2026-04-10,Teerth Shukla,Odisha,Electronics,Laptop,2,14356,1703.82
+269,2026-01-18,Chatresh Sunder,Manipur,Accessories,Mouse,1,5017,519.32
+270,2026-06-04,Darika Hegde,Punjab,Electronics,Speaker,5,30435,6737.95
+271,2025-08-28,Jagrati Sani,Arunachal Pradesh,Networking,Router,2,41114,3475.31
+272,2026-03-31,Mason Suri,Chhattisgarh,Furniture,Chair,1,34232,8787.51
+273,2026-07-29,Gautam Agarwal,Odisha,Electronics,Mobile,2,19486,3687.81
+274,2025-12-06,Gavin Singh,Himachal Pradesh,Furniture,Table,5,7205,811.6
+275,2026-05-29,Tarak Wagle,Himachal Pradesh,Electronics,Headphones,3,37841,11122.24
+276,2025-08-25,Kabir Bhargava,Telangana,Electronics,Laptop,5,10666,2412.94
+277,2026-07-10,Benjamin Som,Gujarat,Electronics,Printer,4,36396,7657.21
+278,2025-12-12,Harrison Pradhan,Uttarakhand,Networking,Router,5,41191,5799.39
+279,2026-03-27,Keya Sawhney,Sikkim,Electronics,Speaker,2,14001,2320.38
+280,2026-01-12,Ganga Wable,Nagaland,Storage,SSD,3,18657,1158.48
+281,2026-01-30,Eesha Parekh,Meghalaya,Storage,Hard Disk,5,36919,2264.69
+282,2025-10-06,Falan Sunder,Goa,Electronics,Headphones,3,29499,1969.76
+283,2026-06-06,Divya Patel,Tamil Nadu,Furniture,Table,4,43003,12101.45
+284,2025-10-23,Bakhshi Sarna,Maharashtra,Accessories,Keyboard,5,49837,4541.48
+285,2026-05-07,Yash Rout,Kerala,Electronics,Mobile,2,19976,1167.93
+286,2026-03-24,Jagat Soman,Rajasthan,Accessories,Keyboard,4,27741,4123.21
+287,2026-06-27,Om Seth,West Bengal,Furniture,Table,4,13405,3712.56
+288,2026-05-31,Daniel Kunda,Uttarakhand,Electronics,Speaker,4,20655,3952.02
+289,2026-01-17,Harshil Ganguly,Manipur,Electronics,Speaker,4,35698,6931.84
+290,2026-03-19,Mitali Basu,West Bengal,Networking,Router,1,17474,4348.16
+291,2026-06-23,Champak Arya,Arunachal Pradesh,Furniture,Table,1,7116,1522.02
+292,2025-11-02,Ekani Natarajan,Rajasthan,Electronics,Monitor,2,13871,2456.07
+293,2026-03-17,Pallavi Issac,Punjab,Electronics,Speaker,1,32798,2348.84
+294,2026-02-08,William Sandhu,Rajasthan,Furniture,Table,1,49301,5889.76
+295,2025-12-20,Chandresh Bahl,West Bengal,Electronics,Headphones,3,41737,2639.44
+296,2026-08-01,Geetika Rama,Mizoram,Electronics,Monitor,3,828,64.02
+297,2026-03-21,Prisha Seth,Madhya Pradesh,Networking,Router,4,8715,1126.21
+298,2026-02-01,Balveer Yogi,West Bengal,Electronics,Camera,5,13546,728.01
+299,2025-10-15,Onkar Char,West Bengal,Storage,Hard Disk,5,32310,2868.73
+300,2025-12-06,Pratyush Dixit,Himachal Pradesh,Electronics,Laptop,3,48303,2506.37
+301,2026-04-22,Veer Mangat,Nagaland,Storage,SSD,5,5535,375.9
+302,2026-07-28,Raagini Patla,Arunachal Pradesh,Accessories,Mouse,3,5259,1128.54
+303,2026-03-06,Dakshesh Chhabra,Gujarat,Electronics,Camera,5,39015,3510.17
+304,2025-09-09,Vaishnavi Kadakia,Madhya Pradesh,Furniture,Chair,1,39466,10631.97
+305,2025-10-30,Jeevika Brar,Himachal Pradesh,Accessories,Keyboard,4,9916,864.91
+306,2026-03-22,Anya Rattan,Tripura,Electronics,Laptop,1,10991,1772.32
+307,2026-07-22,Tara Babu,Himachal Pradesh,Storage,Hard Disk,4,27402,2634.23
+308,2025-12-22,Kabir Narang,Kerala,Electronics,Printer,4,36929,5821.27
+309,2026-03-20,Vaishnavi Tailor,Nagaland,Storage,Hard Disk,3,9044,2589.72
+310,2025-12-19,Yatan Bedi,Jharkhand,Electronics,Speaker,4,32932,6635.93
+311,2026-03-24,Nihal Kumer,Kerala,Electronics,Camera,5,32855,9066.23
+312,2026-05-23,Alka Tailor,Telangana,Electronics,Printer,2,28738,6438.68
+313,2026-04-17,Sathvik Hayer,Goa,Accessories,Keyboard,2,38294,9645.61
+314,2026-03-07,Indira Rama,Tripura,Furniture,Table,3,34601,6044.55
+315,2025-11-27,Maanav Vohra,Meghalaya,Electronics,Laptop,3,40626,5818.84
+316,2026-02-22,Harsh Minhas,Rajasthan,Electronics,Smart Watch,3,38024,2811.21
+317,2026-03-02,Chanchal Minhas,Bihar,Accessories,Keyboard,3,7314,1765.11
+318,2026-06-14,Michael Agrawal,Nagaland,Electronics,Printer,3,3740,1006.01
+319,2026-05-18,Teerth Ratta,Tripura,Electronics,Laptop,2,9108,1202.98
+320,2025-10-15,Elijah Sant,Mizoram,Storage,SSD,3,46336,4650.75
+321,2025-12-14,Lekha Panchal,Rajasthan,Electronics,Mobile,3,6090,1008.81
+322,2025-11-23,Darpan Datta,Meghalaya,Electronics,Laptop,5,16683,3455.14
+323,2025-11-16,Sai Pingle,West Bengal,Electronics,Camera,4,27368,6266.33
+324,2026-05-31,Ria Bhagat,Andhra Pradesh,Electronics,Speaker,3,48417,8761.95
+325,2025-10-16,Utkarsh Chand,Mizoram,Electronics,Laptop,5,2217,384.83
+326,2025-12-13,Tanmayi Bajaj,Andhra Pradesh,Electronics,Laptop,2,19293,1795.15
+327,2026-04-03,Chakradhar Johal,Andhra Pradesh,Electronics,Monitor,4,37768,8187.09
+328,2025-10-02,Benjamin Shanker,Tripura,Electronics,Mobile,1,29419,2671.72
+329,2026-01-26,Zansi Saxena,Himachal Pradesh,Furniture,Chair,2,10719,3213.17
+330,2026-05-18,Garima Vora,Arunachal Pradesh,Accessories,Keyboard,2,30128,2552.0
+331,2025-10-10,Anjali Nayak,Karnataka,Electronics,Smart Watch,4,48615,5386.49
+332,2025-12-31,Ishani Rajan,Uttarakhand,Accessories,Mouse,3,44849,9066.13
+333,2026-04-26,Wriddhish Bhatti,Goa,Furniture,Chair,5,11883,835.46
+334,2026-04-18,Jagdish Luthra,Chhattisgarh,Electronics,Mobile,4,49428,9475.11
+335,2025-10-04,Bishakha Bath,Assam,Accessories,Mouse,4,846,89.89
+336,2026-06-06,Lekha Samra,Nagaland,Accessories,Keyboard,5,3094,477.37
+337,2025-11-06,Dakshesh Pradhan,Goa,Storage,Hard Disk,5,29141,7900.35
+338,2026-08-02,Manya Ramakrishnan,Goa,Networking,Router,3,18315,1179.98
+339,2026-04-28,Kabir Kakar,West Bengal,Furniture,Table,1,44105,3743.67
+340,2025-10-30,Amaira Lad,Manipur,Electronics,Speaker,5,48023,5575.42
+341,2025-09-06,Turvi Dhar,Madhya Pradesh,Furniture,Table,5,13874,1132.23
+342,2026-06-14,Kiaan Dixit,Rajasthan,Networking,Router,1,10234,1659.8
+343,2026-07-31,Bina Johal,Karnataka,Electronics,Printer,3,30885,6773.17
+344,2026-05-08,Yug Om,Mizoram,Electronics,Smart Watch,3,3555,208.55
+345,2026-01-08,Arjun Dube,Arunachal Pradesh,Electronics,Printer,3,1348,73.64
+346,2026-05-08,Nakul Chhabra,Jharkhand,Furniture,Table,5,18026,3371.92
+347,2026-06-13,Kamya Saini,Assam,Electronics,Smart Watch,1,29645,2738.98
+348,2026-03-01,Hiral Sahota,Rajasthan,Furniture,Chair,2,8793,1400.09
+349,2026-04-25,Mitali Sanghvi,Karnataka,Electronics,Mobile,4,5875,379.73
+350,2025-08-25,Advik Mitter,Uttarakhand,Electronics,Speaker,4,26576,3878.24
+351,2025-10-08,Shravya Sekhon,Rajasthan,Furniture,Table,3,10576,3148.49
+352,2026-02-10,Amol Ram,Manipur,Electronics,Smart Watch,4,25738,7441.31
+353,2026-08-04,Devika Kunda,Meghalaya,Electronics,Camera,1,49534,10285.0
+354,2026-04-05,Baljiwan Aggarwal,Karnataka,Electronics,Camera,1,43178,6760.72
+355,2026-01-10,Kashish Mangat,Kerala,Accessories,Keyboard,1,20120,5248.8
+356,2025-08-31,Kabir Rajan,Kerala,Storage,SSD,2,12019,2568.89
+357,2026-01-16,Yahvi Puri,Mizoram,Electronics,Headphones,1,16644,2011.88
+358,2025-08-30,Amrita Natarajan,Andhra Pradesh,Furniture,Chair,5,45956,5422.71
+359,2026-04-13,Dhriti Soman,Jharkhand,Electronics,Monitor,4,9424,1258.06
+360,2025-10-23,Urvashi Sibal,Punjab,Storage,Hard Disk,3,29684,1635.79
+361,2025-10-02,Saumya Parikh,Maharashtra,Electronics,Mobile,2,7986,474.86
+362,2025-12-21,Rachit Guha,Telangana,Electronics,Speaker,2,8003,722.05
+363,2026-06-14,Aishani Batra,Karnataka,Accessories,Keyboard,5,1101,237.15
+364,2026-01-29,Eesha Sawhney,Rajasthan,Electronics,Monitor,2,3855,709.21
+365,2025-12-02,Chaitaly Raju,Telangana,Electronics,Printer,2,7217,1240.17
+366,2026-04-19,Advaith Narayanan,Himachal Pradesh,Networking,Router,5,23392,2138.3
+367,2025-09-17,Anthony Chanda,Uttarakhand,Electronics,Monitor,3,13801,3255.21
+368,2025-08-19,Xavier Chandran,Sikkim,Storage,SSD,3,44652,5826.5
+369,2026-03-02,Tarak Gola,Telangana,Electronics,Camera,3,24258,2255.45
+370,2026-03-20,Kevin Doshi,Madhya Pradesh,Storage,Hard Disk,3,26610,4898.22
+371,2026-07-17,Faris Gopal,Goa,Accessories,Keyboard,2,35460,5913.06
+372,2025-10-03,Zashil Natt,Maharashtra,Electronics,Printer,3,779,126.47
+373,2025-11-12,Chatura Morar,Tripura,Networking,Router,5,49222,9781.52
+374,2026-04-02,Luke Patel,Arunachal Pradesh,Electronics,Monitor,1,2525,184.01
+375,2025-11-26,Yoshita Gill,Gujarat,Electronics,Smart Watch,4,30009,3254.82
+376,2026-04-22,Praneel Rao,Tripura,Storage,SSD,1,45838,11784.5
+377,2026-08-06,Hiral Shere,Jharkhand,Accessories,Keyboard,1,7786,2250.77
+378,2026-01-12,Eta Gara,Maharashtra,Electronics,Headphones,5,11669,2086.03
+379,2026-08-03,Sudiksha Srivastava,Tripura,Accessories,Keyboard,5,8816,2215.24
+380,2026-04-17,Jhalak Narain,Odisha,Electronics,Smart Watch,4,18796,4378.8
+381,2026-01-24,Bahadurjit Lalla,Telangana,Furniture,Chair,3,25632,6483.55
+382,2026-01-24,Prisha Kohli,Goa,Electronics,Camera,1,14717,2711.77
+383,2026-04-09,Aishani Pillay,Odisha,Storage,Hard Disk,2,5597,358.7
+384,2025-09-08,Xalak Ranganathan,Andhra Pradesh,Networking,Router,1,6691,762.12
+385,2026-04-14,Yachana Varghese,Maharashtra,Electronics,Camera,2,4401,1052.34
+386,2025-12-15,Jairaj Mannan,Uttarakhand,Networking,Router,4,24217,4778.85
+387,2025-12-21,Qushi Thaker,West Bengal,Electronics,Laptop,3,40748,10203.22
+388,2026-03-05,Omkaar Chauhan,Madhya Pradesh,Electronics,Headphones,5,7416,1973.97
+389,2025-09-28,Nilima Sur,Haryana,Accessories,Mouse,4,26700,7382.85
+390,2025-08-15,Ira Oommen,Meghalaya,Electronics,Monitor,3,44562,12270.49
+391,2025-09-25,Amrita Ganguly,Haryana,Electronics,Headphones,5,4037,962.72
+392,2026-03-28,Sai Rama,Odisha,Electronics,Mobile,5,33290,8108.52
+393,2025-09-06,Avi Parmer,Mizoram,Furniture,Table,2,15115,2590.13
+394,2026-03-26,Chandran Ghosh,Rajasthan,Electronics,Camera,5,14781,3445.65
+395,2026-05-28,Anita Ahuja,Kerala,Electronics,Speaker,3,33873,4501.36
+396,2026-06-08,Vritti Choudhary,Nagaland,Electronics,Printer,3,22568,6754.17
+397,2026-06-12,Jacob Tak,Uttarakhand,Electronics,Printer,3,11673,728.42
+398,2025-09-14,Unnati Dayal,Gujarat,Furniture,Table,4,48328,3958.74
+399,2026-04-02,Priya Halder,Punjab,Accessories,Keyboard,1,41943,9061.79
+400,2025-12-18,Chandani Sharma,Uttarakhand,Electronics,Laptop,5,24444,6482.21
+401,2025-12-14,Pranav Ghosh,Mizoram,Furniture,Table,4,33277,4906.74
+402,2026-06-13,Vidhi Contractor,Maharashtra,Accessories,Keyboard,4,32258,7928.49
+403,2026-07-18,Amaira Yogi,West Bengal,Storage,Hard Disk,4,47767,6466.47
+404,2026-06-02,Adya Borra,Telangana,Accessories,Mouse,3,20945,1503.81
+405,2026-02-19,Ekantika Ranganathan,Arunachal Pradesh,Electronics,Mobile,3,43647,5737.79
+406,2026-01-27,Zansi Aurora,Uttarakhand,Electronics,Mobile,4,16293,2358.66
+407,2026-08-02,Dalaja Agate,Karnataka,Electronics,Mobile,5,49760,7602.86
+408,2026-07-28,Vrinda Sanghvi,Uttar Pradesh,Electronics,Mobile,4,17695,3534.11
+409,2026-01-26,Shravya Suri,Maharashtra,Accessories,Mouse,2,41649,10523.78
+410,2026-01-27,Anay Datta,Tamil Nadu,Electronics,Headphones,5,44476,5543.75
+411,2025-09-12,Samaksh Mangal,Madhya Pradesh,Electronics,Mobile,5,22934,6874.21
+412,2025-10-02,Hardik Agrawal,Uttar Pradesh,Accessories,Mouse,2,2714,383.64
+413,2025-08-21,Falan Kapoor,Gujarat,Electronics,Speaker,3,45659,13117.43
+414,2026-08-10,Yash Rout,Gujarat,Storage,SSD,4,43411,11894.84
+415,2025-10-01,Nakul Parikh,Tripura,Electronics,Smart Watch,2,40028,8003.83
+416,2025-10-10,Divya Modi,Odisha,Accessories,Mouse,2,32593,9603.13
+417,2026-04-30,Oeshi Dara,Kerala,Furniture,Table,2,39517,8860.62
+418,2026-02-09,Udant Kant,Odisha,Networking,Router,3,27232,7835.21
+419,2025-10-18,Xalak Chana,Maharashtra,Electronics,Monitor,3,11803,2614.31
+420,2026-03-01,Jalsa Handa,Tamil Nadu,Electronics,Monitor,2,26057,4851.45
+421,2026-02-09,Bhavini Dhingra,Chhattisgarh,Accessories,Mouse,5,45229,8657.11
+422,2026-03-27,Saanvi Gola,Haryana,Storage,SSD,2,4162,389.55
+423,2025-08-15,Chameli Dave,Andhra Pradesh,Electronics,Headphones,1,13035,2631.93
+424,2026-08-03,Pavani Sodhi,Kerala,Networking,Router,3,12049,1310.25
+425,2025-11-22,Vyanjana Chatterjee,Andhra Pradesh,Furniture,Chair,1,14835,1779.25
+426,2026-04-15,Ojas Krish,Karnataka,Furniture,Table,4,23852,2035.07
+427,2025-11-19,Chandresh Comar,Madhya Pradesh,Furniture,Chair,5,22267,2831.71
+428,2026-07-20,Faqid Pandit,Tripura,Electronics,Headphones,4,8056,422.84
+429,2025-08-29,Karan Palla,Nagaland,Electronics,Speaker,2,43448,6728.96
+430,2025-09-21,Radha Kunda,Andhra Pradesh,Furniture,Table,5,11496,2032.97
+431,2026-03-27,Sarthak Kara,Karnataka,Electronics,Smart Watch,1,21522,6058.5
+432,2026-01-28,Dev Raghavan,Andhra Pradesh,Accessories,Mouse,1,1302,313.52
+433,2025-08-13,Saanvi Bahl,Tamil Nadu,Electronics,Headphones,2,37237,1871.23
+434,2025-08-29,Pushti Narula,Tripura,Accessories,Keyboard,2,30604,8970.08
+435,2025-12-16,Brinda Ahluwalia,Punjab,Furniture,Chair,4,11962,1780.08
+436,2026-05-19,Deepa Mukherjee,Meghalaya,Networking,Router,4,25301,4857.21
+437,2026-05-23,Laksh Ahuja,Haryana,Electronics,Laptop,3,32400,2181.75
+438,2026-05-07,Karan Loke,Chhattisgarh,Networking,Router,1,25794,5204.42
+439,2026-07-20,Bhavya Rege,Andhra Pradesh,Electronics,Headphones,2,37202,4915.48
+440,2025-11-26,Fiyaz Mand,Chhattisgarh,Storage,SSD,5,15716,1855.03
+441,2026-04-27,Zehaan Raval,Haryana,Electronics,Speaker,4,30904,2441.49
+442,2025-10-24,Irya Sood,West Bengal,Networking,Router,1,2804,374.24
+443,2025-09-23,Rushil Bhatnagar,Nagaland,Electronics,Laptop,1,38636,7421.18
+444,2026-05-30,Rayaan Dutta,Bihar,Storage,Hard Disk,4,7436,1049.62
+445,2025-12-12,Ikbal Baral,Uttarakhand,Electronics,Mobile,4,39471,5262.52
+446,2025-09-02,Kala Prabhu,Manipur,Electronics,Mobile,2,28339,2701.65
+447,2026-05-23,Nicholas Menon,Arunachal Pradesh,Electronics,Printer,5,25468,5032.33
+448,2025-12-15,Arjun Sheth,Mizoram,Electronics,Monitor,3,22385,3301.7
+449,2025-11-02,Amol Vora,Bihar,Furniture,Chair,3,22924,2564.08
+450,2026-07-16,Chaaya Swaminathan,Kerala,Electronics,Monitor,3,31562,9310.35
+451,2025-09-12,Xavier Bassi,Odisha,Electronics,Smart Watch,2,6342,755.23
+452,2025-11-07,Devansh Butala,Manipur,Electronics,Smart Watch,4,34235,4994.57
+453,2025-09-30,Bimala Minhas,Uttar Pradesh,Storage,Hard Disk,4,48668,11034.53
+454,2025-11-12,Lohit Chowdhury,Odisha,Storage,SSD,5,40594,7478.0
+455,2026-06-17,Pranit Nori,West Bengal,Furniture,Chair,2,5092,1311.78
+456,2025-12-11,Champak Loyal,Manipur,Storage,SSD,2,16128,1570.94
+457,2025-09-07,Turvi Mani,Rajasthan,Electronics,Mobile,1,9458,1099.14
+458,2026-07-01,Zehaan Bahl,Tripura,Networking,Router,1,39256,11543.14
+459,2025-10-28,Ganga Maharaj,Uttar Pradesh,Electronics,Headphones,2,16449,2429.76
+460,2026-02-25,Arya Mallick,Tamil Nadu,Accessories,Keyboard,4,30281,5803.71
+461,2026-03-10,Gauri Bedi,Chhattisgarh,Electronics,Mobile,1,49306,13685.52
+462,2025-11-05,Warhi Ganguly,Andhra Pradesh,Furniture,Table,5,16653,948.8
+463,2026-06-08,Daksha Sachdev,Punjab,Storage,Hard Disk,3,5537,1483.24
+464,2026-07-31,Bhavika Hans,Nagaland,Electronics,Printer,1,21020,3514.89
+465,2025-08-26,Panini Chahal,Odisha,Furniture,Chair,3,49929,4632.05
+466,2026-07-03,Arin Agarwal,Punjab,Electronics,Speaker,4,7431,810.11
+467,2026-01-19,Veda Vyas,Telangana,Storage,SSD,4,38622,6082.6
+468,2026-03-26,Ekani Nori,Assam,Accessories,Keyboard,3,16386,1547.48
+469,2026-07-03,Isaiah Kulkarni,Kerala,Electronics,Headphones,4,32511,5540.12
+470,2026-06-11,Jackson Babu,Goa,Electronics,Smart Watch,2,16052,4667.64
+471,2025-09-26,Lohit Dada,Uttarakhand,Furniture,Table,5,20154,4699.78
+472,2026-04-07,Januja Barad,Arunachal Pradesh,Electronics,Mobile,3,43251,11778.22
+473,2026-05-04,Faraj Kuruvilla,Odisha,Networking,Router,5,36402,6168.65
+474,2025-10-10,Zehaan Khurana,Telangana,Networking,Router,2,38771,3603.53
+475,2026-07-13,Veda Madan,Maharashtra,Electronics,Camera,5,49639,11092.15
+476,2026-02-16,Ishaan Bobal,Nagaland,Accessories,Mouse,3,7856,1258.97
+477,2026-02-13,Rajata Wali,Mizoram,Electronics,Headphones,4,29014,2509.89
+478,2025-10-01,Zansi Toor,Gujarat,Storage,SSD,3,28939,1604.56
+479,2025-10-23,Idika Bhatia,Uttarakhand,Accessories,Mouse,3,22175,5902.77
+480,2025-09-27,Zayan Dasgupta,Mizoram,Storage,SSD,5,2039,503.42
+481,2026-07-01,Indali Ray,Chhattisgarh,Networking,Router,3,22352,3990.32
+482,2025-12-18,Eesha Dhingra,Bihar,Electronics,Printer,2,26338,4799.16
+483,2025-10-07,Kamya Lata,Manipur,Electronics,Printer,5,11828,841.26
+484,2026-02-21,Nitara Sheth,Gujarat,Storage,SSD,2,48660,10610.22
+485,2026-06-06,Siya Sarkar,Rajasthan,Storage,Hard Disk,1,42324,11475.24
+486,2026-07-02,Jai Chopra,Rajasthan,Accessories,Keyboard,4,13836,3710.52
+487,2026-07-27,Aahana Singh,Uttarakhand,Accessories,Mouse,3,8488,1307.45
+488,2026-05-13,Qabil Nadkarni,Himachal Pradesh,Electronics,Camera,4,45913,6427.09
+489,2026-07-26,Eesha Ratta,Assam,Storage,SSD,5,1654,457.39
+490,2026-06-05,Vritti Gill,Manipur,Furniture,Table,3,35925,7912.49
+491,2026-06-17,Om Chakraborty,Madhya Pradesh,Accessories,Mouse,4,12726,1870.46
+492,2026-06-04,Manan Venkataraman,Punjab,Electronics,Mobile,1,7300,1533.46
+493,2025-10-20,Urvi Suri,Uttarakhand,Accessories,Mouse,1,34836,4869.18
+494,2026-05-31,Bhavna Singh,Bihar,Storage,Hard Disk,5,5981,1523.17
+495,2025-09-03,Jyoti Ramakrishnan,Uttar Pradesh,Electronics,Monitor,3,9694,2336.55
+496,2025-10-25,Charan Dani,Bihar,Electronics,Monitor,2,15713,1531.64
+497,2026-05-23,Isaiah Bakshi,Bihar,Storage,Hard Disk,4,2718,570.05
+498,2026-04-17,Indali Dhingra,Tripura,Storage,SSD,1,15686,3499.34
+499,2026-01-29,Guneet Behl,Tripura,Storage,Hard Disk,2,12048,3342.88
+500,2026-05-18,Ubika Rout,Manipur,Accessories,Mouse,2,28337,4199.46
+501,2025-08-15,Upma Date,Meghalaya,Electronics,Camera,5,47354,2699.19
+502,2025-11-15,Dhriti Sachar,Chhattisgarh,Accessories,Keyboard,5,10678,1473.55
+503,2025-09-13,Zayyan Sampath,Andhra Pradesh,Electronics,Headphones,5,33529,1895.09
+504,2026-04-12,Lakshit Dube,Chhattisgarh,Electronics,Headphones,2,49434,4384.83
+505,2026-04-20,Vincent Choudhury,Tripura,Accessories,Keyboard,2,16850,4232.05
+506,2026-07-03,Irya Dara,Chhattisgarh,Electronics,Monitor,3,30592,6116.88
+507,2025-11-21,Bhavna Dugar,Gujarat,Furniture,Table,3,15815,2092.74
+508,2026-06-16,Gaurika Deshmukh,Himachal Pradesh,Electronics,Smart Watch,5,18717,5387.95
+509,2026-04-12,Anusha Dubey,Uttar Pradesh,Electronics,Monitor,1,17684,5064.77
+510,2026-05-29,Qushi Goda,Mizoram,Accessories,Mouse,2,48227,13819.32
+511,2026-07-07,Umang Nair,Maharashtra,Furniture,Table,5,13668,3869.38
+512,2026-08-07,Libni Iyer,Gujarat,Electronics,Laptop,1,43326,12524.77
+513,2025-10-08,Yahvi Batta,Tripura,Accessories,Mouse,2,36881,1982.83
+514,2025-09-24,Janaki Lanka,Gujarat,Accessories,Mouse,4,31099,5618.01
+515,2026-08-04,Anvi Chaudhuri,Meghalaya,Electronics,Speaker,5,45341,5995.21
+516,2026-08-01,Raghav Luthra,Tamil Nadu,Electronics,Printer,2,37676,2197.9
+517,2026-07-28,Gopal Kulkarni,Bihar,Electronics,Printer,5,28008,4878.35
+518,2026-08-08,Garima Rai,Karnataka,Electronics,Printer,3,47679,5286.14
+519,2025-10-16,Indira Vig,Madhya Pradesh,Accessories,Mouse,2,38653,7811.64
+520,2026-06-17,Charles Bora,Nagaland,Storage,Hard Disk,2,25987,5097.8
+521,2026-07-20,Hardik Raval,Punjab,Networking,Router,3,25557,5931.33
+522,2026-06-23,Saumya Balay,Uttar Pradesh,Electronics,Camera,2,16796,4101.92
+523,2025-08-24,Dhruv Bath,Rajasthan,Electronics,Speaker,4,29021,4517.68
+524,2026-07-31,Hemang Chawla,Jharkhand,Electronics,Camera,5,23974,2211.15
+525,2025-11-22,Gavin Deo,Jharkhand,Electronics,Smart Watch,1,21795,6335.04
+526,2026-07-19,Gaurangi Sagar,Andhra Pradesh,Accessories,Mouse,4,9354,2160.68
+527,2026-06-12,Sai Rajan,Meghalaya,Accessories,Keyboard,1,44657,6897.74
+528,2026-03-28,Vedhika Dhawan,Telangana,Electronics,Camera,2,49553,5056.48
+529,2025-10-17,Sara Doctor,Haryana,Furniture,Table,5,5725,1528.99
+530,2026-01-20,Pooja Patla,Andhra Pradesh,Electronics,Speaker,5,20628,1606.68
+531,2025-12-15,Urvi Kaul,Gujarat,Electronics,Headphones,4,5073,999.4
+532,2026-05-13,Dayita Bassi,Sikkim,Accessories,Keyboard,5,36430,10361.35
+533,2026-02-14,Avni Vaidya,Jharkhand,Accessories,Keyboard,1,4558,1061.17
+534,2026-07-31,Lucky Mannan,Nagaland,Accessories,Mouse,3,19447,2114.32
+535,2026-03-04,Rachana Bora,Karnataka,Electronics,Camera,4,40252,2981.02
+536,2026-05-18,Tanish Sani,Jharkhand,Networking,Router,1,33289,9922.52
+537,2026-02-05,Hritik Chacko,Odisha,Electronics,Speaker,2,12237,1715.53
+538,2026-05-17,Avni Zachariah,Nagaland,Electronics,Printer,5,18650,3551.2
+539,2025-09-01,Udyati Toor,Rajasthan,Electronics,Speaker,5,49688,4164.66
+540,2026-04-08,Anay Chaudry,Uttarakhand,Furniture,Table,4,3018,483.2
+541,2026-05-13,Rehaan Muni,Karnataka,Furniture,Table,5,48252,10607.21
+542,2026-03-21,Ucchal Wason,Goa,Furniture,Chair,5,36199,8854.65
+543,2025-11-21,Daksha Prakash,Rajasthan,Networking,Router,1,16490,2653.83
+544,2026-02-14,Thomas Ray,Tripura,Storage,Hard Disk,4,49656,5693.65
+545,2026-01-01,Gavin Padmanabhan,Telangana,Electronics,Mobile,1,45336,6122.41
+546,2026-02-06,Veer Nagy,Gujarat,Electronics,Mobile,1,44463,7044.61
+547,2026-04-26,Caleb Dua,Tripura,Electronics,Smart Watch,5,27140,1910.82
+548,2026-06-15,Prisha Oommen,Tamil Nadu,Electronics,Camera,1,37106,5715.03
+549,2026-03-22,Dev Sule,Tripura,Storage,SSD,4,9100,460.19
+550,2026-04-15,Bahadurjit Gara,Uttar Pradesh,Networking,Router,4,22188,1305.87
+551,2025-12-15,Hiral Shukla,Sikkim,Electronics,Camera,3,9433,1666.73
+552,2026-03-14,Omisha Khatri,Rajasthan,Electronics,Laptop,4,43606,10583.05
+553,2026-02-28,Ganga Iyengar,Rajasthan,Electronics,Camera,2,3954,970.96
+554,2026-01-05,Veer Pandit,Meghalaya,Electronics,Camera,1,26925,7253.8
+555,2026-04-10,Reva Setty,Assam,Accessories,Keyboard,1,49286,13315.1
+556,2026-01-28,Amaira Setty,Manipur,Electronics,Speaker,4,35434,7039.21
+557,2026-07-24,Chandani Joshi,Punjab,Electronics,Printer,4,31151,7223.0
+558,2025-11-06,Zashil Kapur,Chhattisgarh,Storage,Hard Disk,2,38055,11268.65
+559,2026-05-25,Yoshita Varghese,Gujarat,Accessories,Keyboard,5,11748,1936.98
+560,2026-08-03,Veda Narayan,Kerala,Electronics,Mobile,4,35614,3299.58
+561,2026-01-20,Waida Cheema,Himachal Pradesh,Electronics,Speaker,2,8914,1231.89
+562,2026-07-30,Rayaan Gaba,Gujarat,Electronics,Laptop,2,8124,2417.69
+563,2025-09-04,Kai Palan,Kerala,Electronics,Mobile,2,32746,4544.67
+564,2026-07-23,Xalak Jhaveri,Gujarat,Furniture,Chair,5,4080,339.77
+565,2026-03-16,Ekantika Narayan,Manipur,Accessories,Keyboard,4,9093,968.03
+566,2025-10-18,Sachi Mangat,Manipur,Accessories,Mouse,2,13659,944.66
+567,2026-02-09,Jonathan Sengupta,Bihar,Storage,Hard Disk,1,42633,10864.39
+568,2025-11-01,Maanas Chopra,Kerala,Electronics,Smart Watch,2,25098,4313.77
+569,2025-09-01,Akshay Narula,Chhattisgarh,Electronics,Mobile,5,45995,11124.78
+570,2026-08-08,Ishani Amble,Uttarakhand,Storage,SSD,3,35115,4880.19
+571,2026-05-22,Netra Chanda,Sikkim,Electronics,Mobile,1,40085,8149.4
+572,2026-03-20,Dev Agarwal,Himachal Pradesh,Electronics,Monitor,4,12860,1324.76
+573,2026-05-10,Bhanumati Narain,Himachal Pradesh,Electronics,Mobile,4,24221,4426.08
+574,2026-07-21,Zayan Bhavsar,Nagaland,Electronics,Laptop,5,32303,8942.13
+575,2026-04-18,Abdul Mann,Kerala,Electronics,Monitor,3,1062,219.71
+576,2026-01-15,Parth Mohan,Rajasthan,Storage,SSD,2,28343,1520.29
+577,2025-11-07,Orinder Balan,Odisha,Storage,Hard Disk,3,44933,11629.42
+578,2026-03-11,Neel Minhas,Chhattisgarh,Furniture,Table,1,7658,1532.67
+579,2026-05-24,Geetika Mutti,Tripura,Electronics,Camera,1,41983,9569.55
+580,2026-05-27,Warhi Khalsa,Assam,Electronics,Laptop,3,49167,9449.72
+581,2025-10-10,Fiyaz Deep,West Bengal,Networking,Router,1,27046,4291.55
+582,2026-07-25,Jack Rege,Karnataka,Electronics,Printer,1,40470,10122.19
+583,2026-01-25,Upadhriti Garg,Madhya Pradesh,Electronics,Speaker,2,3529,979.43
+584,2026-07-20,Harsh Shukla,Punjab,Furniture,Table,3,38310,4984.96
+585,2026-07-25,Ekaraj Sharaf,Punjab,Networking,Router,5,28163,2913.53
+586,2025-11-09,Oviya Dara,Mizoram,Storage,Hard Disk,3,42841,3946.17
+587,2025-08-21,Daksha Bhavsar,Meghalaya,Electronics,Mobile,4,42762,4532.21
+588,2025-08-18,Indrajit Kade,Chhattisgarh,Electronics,Monitor,5,33259,4805.37
+589,2025-10-05,Tanvi Subramaniam,Meghalaya,Electronics,Camera,4,7261,433.25
+590,2025-12-21,Ishwar Buch,Himachal Pradesh,Storage,SSD,5,27285,6372.37
+591,2025-11-03,Laksh Sagar,Gujarat,Electronics,Mobile,1,40732,3685.91
+592,2026-03-19,Vritti Bandi,Madhya Pradesh,Electronics,Laptop,5,13271,3973.21
+593,2025-11-26,Ayaan Tripathi,Maharashtra,Electronics,Camera,5,26551,5650.68
+594,2026-02-27,Samar Lad,Maharashtra,Furniture,Chair,3,10072,1173.89
+595,2025-11-01,Kashvi Sarkar,Uttarakhand,Electronics,Mobile,3,22087,2335.79
+596,2025-12-07,Reva Thaman,Uttar Pradesh,Electronics,Smart Watch,4,5626,523.51
+597,2025-08-20,Jai Om,Uttarakhand,Furniture,Chair,5,41826,12128.14
+598,2026-06-13,Tamanna Memon,Haryana,Accessories,Mouse,2,29978,1785.19
+599,2026-02-24,Darsh Garde,Kerala,Storage,Hard Disk,1,34048,4059.19
+600,2025-10-07,Yashasvi Datta,Nagaland,Accessories,Mouse,5,44382,10926.36
+601,2025-10-03,Kala Bassi,Rajasthan,Furniture,Table,1,24996,6602.63
+602,2025-12-20,Lila Borra,Gujarat,Furniture,Table,1,6797,585.83
+603,2026-05-24,Dhriti Biswas,Sikkim,Networking,Router,1,45352,4513.3
+604,2026-04-24,Eesha Butala,Punjab,Electronics,Speaker,3,40718,7313.65
+605,2026-04-26,Isaac Mander,Meghalaya,Storage,SSD,5,20318,4425.95
+606,2025-09-12,Falak Khurana,Uttar Pradesh,Accessories,Mouse,1,40118,9904.07
+607,2026-03-17,Naksh Sagar,Madhya Pradesh,Electronics,Laptop,1,43900,8067.03
+608,2025-08-31,Isaac Varma,Bihar,Electronics,Headphones,4,26826,7326.27
+609,2026-02-22,Yachana Loke,Assam,Electronics,Headphones,2,47833,7929.85
+610,2025-08-24,Wriddhish Pall,Chhattisgarh,Furniture,Chair,4,42734,7616.99
+611,2025-11-05,Nathan Bail,Bihar,Furniture,Chair,3,30109,2656.7
+612,2025-11-13,Gautami Raghavan,Bihar,Electronics,Printer,3,36520,7203.66
+613,2025-08-19,Anvi Dani,Chhattisgarh,Electronics,Mobile,1,45160,11402.21
+614,2026-06-08,Zilmil Narasimhan,Maharashtra,Furniture,Chair,3,35906,7208.64
+615,2026-04-23,Isaac Ramaswamy,Uttarakhand,Electronics,Monitor,4,39108,9771.27
+616,2026-04-19,Meghana Patla,Meghalaya,Electronics,Laptop,3,9584,2023.19
+617,2026-06-03,Rachita Dutt,Telangana,Electronics,Speaker,1,7891,795.65
+618,2025-11-28,Harrison Madan,Mizoram,Electronics,Smart Watch,4,4458,1040.99
+619,2026-03-28,Gauri Bora,Arunachal Pradesh,Accessories,Keyboard,3,8330,2141.18
+620,2025-10-24,Atharv Gupta,Manipur,Electronics,Printer,4,11349,1282.76
+621,2025-12-01,Wazir Barman,Uttar Pradesh,Electronics,Speaker,5,39694,10830.03
+622,2025-11-01,Kalpit Brar,Assam,Networking,Router,3,14823,1279.16
+623,2026-03-09,Isaac Krish,Odisha,Storage,SSD,3,48014,5395.85
+624,2026-02-09,Harinakshi Kade,Gujarat,Electronics,Mobile,1,33648,2120.46
+625,2026-01-04,Harita Palan,Gujarat,Electronics,Smart Watch,1,29961,3516.74
+626,2025-09-09,Pranit Borde,Andhra Pradesh,Networking,Router,2,42151,4555.93
+627,2026-07-14,Dipta Buch,Punjab,Networking,Router,3,48608,5804.97
+628,2025-09-12,Ganga Dora,Chhattisgarh,Electronics,Printer,5,9857,2065.08
+629,2026-05-02,Fitan Keer,Goa,Electronics,Headphones,2,44381,12373.1
+630,2025-09-14,Libni Bumb,West Bengal,Electronics,Monitor,2,41927,4330.16
+631,2026-07-01,Orinder Mann,Madhya Pradesh,Electronics,Camera,3,7620,1390.58
+632,2025-12-12,Ishwar Krishnamurthy,Andhra Pradesh,Accessories,Keyboard,4,1673,272.63
+633,2026-07-31,Timothy Dora,Mizoram,Electronics,Mobile,4,37531,10623.0
+634,2026-02-27,Varsha Halder,Odisha,Storage,SSD,3,8306,2409.59
+635,2026-03-31,Jeremiah Rastogi,Andhra Pradesh,Electronics,Printer,5,32029,6871.8
+636,2026-05-13,Ishaan Mistry,Rajasthan,Accessories,Mouse,1,37794,3311.21
+637,2026-07-25,Laban Saxena,Punjab,Accessories,Mouse,1,43270,10312.59
+638,2026-04-03,Sanaya Dugar,Odisha,Storage,Hard Disk,4,18298,3521.2
+639,2026-01-21,Qadim Chaudry,Madhya Pradesh,Electronics,Laptop,2,15196,1268.97
+640,2026-04-03,Darika Ahluwalia,Bihar,Electronics,Camera,4,2744,343.96
+641,2026-01-10,Ekiya Sharaf,West Bengal,Accessories,Mouse,5,26008,4187.19
+642,2026-02-05,Charvi Palla,Assam,Storage,Hard Disk,1,12228,2353.43
+643,2026-01-07,Dayamai Venkatesh,Haryana,Electronics,Monitor,4,14041,3182.22
+644,2026-07-30,Omaja Badami,Bihar,Electronics,Monitor,5,16507,3293.73
+645,2026-02-27,Onveer Lall,Haryana,Electronics,Smart Watch,4,10492,920.22
+646,2026-07-12,Ekalinga Sanghvi,West Bengal,Storage,Hard Disk,4,16372,1232.73
+647,2026-05-06,Udarsh Edwin,Assam,Storage,SSD,5,35966,7814.78
+648,2025-11-03,Warda Devi,Jharkhand,Electronics,Monitor,3,34773,1738.92
+649,2026-05-10,Oliver Parikh,Goa,Accessories,Mouse,4,34648,4190.27
+650,2025-11-01,Oviya Panchal,Madhya Pradesh,Electronics,Mobile,1,4597,481.93
+651,2026-04-13,Falak Rattan,Kerala,Electronics,Mobile,5,34860,7270.8
+652,2025-12-08,Alexander Sabharwal,Andhra Pradesh,Electronics,Headphones,1,12150,2322.7
+653,2025-11-19,Warda Narula,Tamil Nadu,Electronics,Headphones,5,33939,2683.72
+654,2026-03-09,Ryan Dutt,Rajasthan,Furniture,Chair,2,6883,1839.73
+655,2026-07-03,Kavya Subramaniam,Karnataka,Electronics,Headphones,2,20237,3773.92
+656,2025-10-21,Sudiksha Sekhon,Punjab,Electronics,Speaker,1,27940,5512.37
+657,2026-07-22,Yash Gour,Chhattisgarh,Electronics,Camera,4,6109,359.56
+658,2026-05-27,Meera Pandit,Sikkim,Electronics,Camera,1,23753,5077.4
+659,2026-01-05,Ikbal Kamdar,Haryana,Electronics,Smart Watch,1,9176,1800.93
+660,2026-03-18,Vrinda Wali,Haryana,Electronics,Speaker,5,4601,644.09
+661,2025-08-11,Onveer Soni,Assam,Electronics,Smart Watch,4,49957,10594.23
+662,2026-01-16,Lucky Parsa,Nagaland,Electronics,Monitor,2,2842,280.15
+663,2025-09-11,Nidhi Oak,Himachal Pradesh,Accessories,Mouse,1,1357,402.64
+664,2026-02-25,Diya Kale,Rajasthan,Electronics,Laptop,5,17235,2416.29
+665,2025-10-06,Victor Cheema,Bihar,Electronics,Printer,1,5928,390.09
+666,2026-07-21,Nikita Sandal,Bihar,Storage,SSD,1,29891,1912.79
+667,2026-08-05,Falguni Bala,Nagaland,Furniture,Table,5,22242,4984.72
+668,2026-08-03,Dominic Dugar,Andhra Pradesh,Electronics,Laptop,1,14219,3442.23
+669,2026-07-29,Pooja Sen,Haryana,Networking,Router,5,26132,1420.2
+670,2026-04-28,Sneha Khare,Himachal Pradesh,Electronics,Monitor,3,36864,2795.72
+671,2026-04-21,Kevin Patla,Jharkhand,Electronics,Printer,4,16536,2775.75
+672,2025-11-27,Anika Thakur,Manipur,Accessories,Mouse,5,20033,3065.02
+673,2026-03-19,Idika Dara,Odisha,Electronics,Smart Watch,1,37298,5674.92
+674,2025-12-23,Kiaan Issac,Mizoram,Networking,Router,4,10958,749.66
+675,2025-08-17,Abha Krishna,Arunachal Pradesh,Electronics,Headphones,2,806,154.72
+676,2025-09-18,Yochana Kothari,Maharashtra,Electronics,Printer,5,20835,5781.11
+677,2026-07-24,Warjas Agarwal,Haryana,Electronics,Laptop,3,3020,721.97
+678,2026-01-27,Nitara Kaur,Nagaland,Electronics,Monitor,4,42722,2575.83
+679,2026-03-04,Gautam Kota,West Bengal,Storage,Hard Disk,1,23704,7049.18
+680,2025-12-30,Aahana Dua,Meghalaya,Networking,Router,3,25344,6414.75
+681,2025-10-19,Jasmit Morar,Tripura,Electronics,Monitor,5,22717,6492.45
+682,2025-08-25,Onveer Borde,Sikkim,Storage,SSD,5,24470,3758.2
+683,2026-04-08,Jonathan Dani,Odisha,Electronics,Laptop,1,25188,6717.92
+684,2025-10-24,Harsh Chatterjee,Goa,Electronics,Monitor,2,32543,8977.03
+685,2025-11-09,Vedika Muni,West Bengal,Electronics,Mobile,2,40709,7736.16
+686,2025-11-29,Yuvraj Comar,Goa,Electronics,Smart Watch,4,4277,235.04
+687,2025-09-26,Anya Munshi,Andhra Pradesh,Electronics,Headphones,5,6139,1712.44
+688,2026-04-03,Praneel Kota,Uttarakhand,Electronics,Speaker,3,8407,1461.45
+689,2026-07-06,Zaitra Balakrishnan,Bihar,Accessories,Keyboard,1,39670,9198.22
+690,2025-10-09,Victor Panchal,Bihar,Storage,Hard Disk,5,34484,6547.32
+691,2026-04-02,Warhi Raman,Tripura,Accessories,Mouse,4,38458,4925.45
+692,2026-07-08,Mohini Setty,Assam,Electronics,Camera,2,28305,2956.33
+693,2026-07-22,Reva Walia,Chhattisgarh,Accessories,Keyboard,5,35295,9504.02
+694,2025-12-20,Chanchal Jain,Jharkhand,Storage,Hard Disk,4,43438,9235.49
+695,2025-11-09,Zashil Sani,Manipur,Storage,SSD,2,40272,7001.31
+696,2025-12-11,Rayaan Kamdar,Uttar Pradesh,Furniture,Chair,1,27215,6890.52
+697,2026-03-11,Leela Sharaf,West Bengal,Electronics,Camera,2,16512,4785.84
+698,2025-08-29,George Ramaswamy,Andhra Pradesh,Electronics,Smart Watch,1,25243,1666.77
+699,2026-03-17,Lakshmi Parmar,Maharashtra,Electronics,Printer,2,22932,4095.39
+700,2025-12-21,Aashi Samra,Rajasthan,Electronics,Camera,4,36917,9409.51
+701,2025-12-28,Adweta Mani,Meghalaya,Electronics,Printer,3,22092,6195.2
+702,2026-05-11,Parth Dixit,Kerala,Electronics,Printer,2,5797,914.14
+703,2025-11-08,Nirja Sem,Bihar,Electronics,Printer,2,39629,11409.76
+704,2026-03-27,Samarth Nagarajan,Uttar Pradesh,Furniture,Table,3,27081,7944.51
+705,2026-07-02,Neha Mane,Arunachal Pradesh,Networking,Router,1,45239,5489.38
+706,2026-07-04,Wazir Bawa,Goa,Electronics,Camera,3,46484,4731.39
+707,2026-07-10,Raksha Dhawan,Assam,Electronics,Smart Watch,4,3165,362.45
+708,2026-08-03,Pratyush Pau,Sikkim,Electronics,Headphones,4,826,89.13
+709,2025-12-26,Balhaar Naik,Kerala,Electronics,Camera,3,42194,3963.9
+710,2026-06-30,Wazir Loyal,Meghalaya,Storage,Hard Disk,1,35307,7750.68
+711,2026-07-04,Patrick Lanka,Sikkim,Accessories,Keyboard,4,588,72.54
+712,2025-11-18,Zaid Behl,Telangana,Electronics,Camera,3,29385,5650.01
+713,2026-07-10,Darsh Mukhopadhyay,Mizoram,Furniture,Table,4,22036,5215.38
+714,2026-07-20,Balveer Bains,Bihar,Electronics,Smart Watch,5,5457,788.0
+715,2026-04-14,Nathan Badami,Punjab,Electronics,Smart Watch,4,34487,3579.36
+716,2026-01-19,Orinder Bala,Karnataka,Electronics,Camera,5,16256,4379.45
+717,2025-11-08,Charita Khalsa,Rajasthan,Networking,Router,1,18441,3748.7
+718,2025-12-18,Chaman Baria,Rajasthan,Networking,Router,2,27257,5211.05
+719,2026-05-06,Triya Reddy,Assam,Storage,SSD,2,47884,13059.24
+720,2026-06-26,Theodore Zachariah,Sikkim,Accessories,Mouse,4,10213,1994.59
+721,2026-06-21,Jhalak Buch,Mizoram,Furniture,Table,1,8312,1252.7
+722,2025-11-14,Rachana Gupta,Nagaland,Electronics,Laptop,2,38190,8393.96
+723,2026-01-21,Om Taneja,Haryana,Storage,SSD,1,47772,12780.38
+724,2026-02-17,Harshil Ramesh,Sikkim,Electronics,Headphones,3,722,111.18
+725,2025-11-05,Ishaan Devan,Odisha,Networking,Router,2,10617,2950.86
+726,2026-03-07,Harinakshi Vaidya,Uttarakhand,Electronics,Printer,5,18140,3677.65
+727,2026-08-08,Vedhika Sule,West Bengal,Furniture,Table,3,8301,1537.96
+728,2025-08-22,Gaurika Mohan,Assam,Electronics,Printer,1,28692,3827.69
+729,2025-11-03,Lakshmi Ratta,Andhra Pradesh,Electronics,Speaker,2,11958,1418.61
+730,2025-12-30,Alka Sen,West Bengal,Furniture,Table,2,39209,4256.29
+731,2025-09-13,Adweta Mohan,Tamil Nadu,Electronics,Laptop,2,4513,567.64
+732,2025-09-20,Ria Dugar,Karnataka,Furniture,Table,4,12816,2123.22
+733,2025-08-24,Varsha Bhatnagar,Meghalaya,Electronics,Headphones,3,25471,2417.02
+734,2026-04-21,Gunbir Barad,Himachal Pradesh,Electronics,Speaker,1,24035,6905.29
+735,2026-03-02,Nisha Issac,Goa,Storage,Hard Disk,4,11289,2855.02
+736,2026-06-14,Hemang Bahri,Maharashtra,Storage,SSD,3,34303,6193.46
+737,2026-07-24,Chameli Bhakta,Rajasthan,Electronics,Smart Watch,3,41014,7095.16
+738,2026-07-30,Zarna Lall,Tripura,Furniture,Table,3,10596,1400.35
+739,2026-01-16,Ishwar Kapadia,Bihar,Electronics,Printer,2,33436,4931.65
+740,2026-06-07,Abhimanyu Kapadia,Punjab,Furniture,Table,5,21484,5824.01
+741,2026-07-08,Vedant Narain,Sikkim,Electronics,Smart Watch,2,13905,963.25
+742,2026-07-03,Lohit Dubey,Odisha,Storage,SSD,1,28297,6838.76
+743,2026-06-09,Charan Wali,Assam,Furniture,Chair,4,8262,476.3
+744,2026-02-12,Ekalinga Virk,Arunachal Pradesh,Electronics,Smart Watch,5,8412,2397.33
+745,2025-10-24,Patrick Joshi,Himachal Pradesh,Furniture,Table,3,3778,287.36
+746,2025-12-14,Rushil Jhaveri,Haryana,Furniture,Table,4,40899,10116.2
+747,2026-08-03,Udarsh Mitra,Jharkhand,Electronics,Smart Watch,4,21491,2079.21
+748,2026-01-28,Rehaan Raman,Rajasthan,Electronics,Speaker,2,10748,1967.95
+749,2026-04-22,Bachittar Srinivasan,West Bengal,Electronics,Headphones,4,47865,12181.7
+750,2025-09-06,Radhika Chauhan,Meghalaya,Furniture,Chair,2,12309,1495.08
+751,2025-11-22,Hemang Chand,Arunachal Pradesh,Accessories,Mouse,5,30081,5376.74
+752,2025-09-13,Riya Randhawa,Tripura,Storage,Hard Disk,4,34546,5435.25
+753,2026-01-23,Mohini Chada,Manipur,Storage,SSD,1,14766,2724.83
+754,2026-04-21,Matthew Sibal,Bihar,Storage,SSD,2,34974,1964.58
+755,2026-06-13,Nisha Bawa,Uttar Pradesh,Storage,Hard Disk,5,22258,3112.97
+756,2026-05-10,Henry Chokshi,Odisha,Electronics,Monitor,3,14810,3978.56
+757,2026-04-17,Inaya Biswas,Punjab,Electronics,Laptop,3,48439,5758.77
+758,2025-10-27,Ria Pathak,Sikkim,Electronics,Headphones,1,30197,2694.27
+759,2026-08-01,Megha Kunda,Karnataka,Electronics,Camera,5,32282,2546.78
+760,2026-04-20,Joshua Bhakta,Tamil Nadu,Networking,Router,2,40979,3228.89
+761,2025-08-20,Ekapad Tripathi,Arunachal Pradesh,Storage,Hard Disk,2,26412,6069.45
+762,2026-04-18,Dominic Dhawan,Goa,Electronics,Speaker,5,15202,1896.43
+763,2026-07-20,Aarush Hari,Nagaland,Furniture,Table,4,40206,7056.69
+764,2026-04-03,Faras Dutta,Gujarat,Furniture,Table,2,18312,4261.16
+765,2025-09-12,Yoshita Butala,Karnataka,Networking,Router,3,4248,393.11
+766,2026-05-18,Shaurya Dubey,Tripura,Networking,Router,4,12193,1516.2
+767,2026-02-02,Faqid Raja,Tripura,Electronics,Laptop,3,30900,2369.45
+768,2025-11-04,Christopher Bobal,Uttar Pradesh,Electronics,Mobile,3,8314,1841.15
+769,2026-07-19,Ekbal Sama,Tamil Nadu,Electronics,Laptop,5,36786,9403.59
+770,2025-09-01,Saanvi Maharaj,Gujarat,Storage,Hard Disk,2,36883,6096.91
+771,2026-06-26,Manan Goel,Manipur,Electronics,Smart Watch,1,8971,652.71
+772,2026-07-27,Akshay Hari,Maharashtra,Electronics,Headphones,5,3652,556.94
+773,2026-04-11,Peter Sunder,Odisha,Electronics,Headphones,5,39942,2114.48
+774,2026-03-03,Tanay Anand,Tripura,Furniture,Chair,1,17230,5085.52
+775,2025-09-25,Turvi Bhargava,Karnataka,Electronics,Monitor,4,48352,6158.48
+776,2025-09-06,Yashawini Bhardwaj,Uttarakhand,Networking,Router,2,42072,4080.57
+777,2026-07-15,Nitara Ramachandran,Sikkim,Electronics,Monitor,3,47744,14291.4
+778,2026-08-03,Wishi Gola,Nagaland,Electronics,Speaker,1,24958,1853.99
+779,2026-01-10,Harita Setty,Gujarat,Accessories,Mouse,3,48958,2516.73
+780,2025-09-17,Pratyush Kakar,Rajasthan,Electronics,Mobile,4,1660,477.51
+781,2025-11-30,Harshil Chandran,Madhya Pradesh,Storage,SSD,1,43864,6151.7
+782,2025-08-19,Mugdha Mander,Tripura,Electronics,Laptop,5,4304,1114.43
+783,2026-01-08,Faraj Chaudhari,West Bengal,Furniture,Chair,1,43511,11685.62
+784,2026-05-24,Agastya Memon,Uttarakhand,Electronics,Headphones,4,24473,5607.8
+785,2026-06-05,Bachittar Char,Andhra Pradesh,Accessories,Mouse,4,21015,5456.46
+786,2025-10-13,Radha Apte,Maharashtra,Storage,SSD,5,25760,2917.05
+787,2025-12-30,Ganga Gade,Gujarat,Electronics,Printer,2,21510,4066.43
+788,2025-12-21,Amaira Misra,Kerala,Furniture,Table,5,12706,2612.54
+789,2026-07-08,Yauvani Oza,Haryana,Accessories,Mouse,4,40331,10827.54
+790,2025-09-09,Ekbal Hora,Uttar Pradesh,Electronics,Printer,4,44901,9836.78
+791,2026-08-04,Raghav Ghose,Manipur,Electronics,Camera,5,6058,646.8
+792,2026-01-23,Yauvani Borah,Goa,Furniture,Table,1,42386,3888.73
+793,2025-12-27,Yatin Sarma,Gujarat,Accessories,Keyboard,3,14282,2716.7
+794,2025-10-20,Bhanumati Bir,Tamil Nadu,Electronics,Headphones,5,37138,4672.72
+795,2025-12-21,Hemangini Dutta,Madhya Pradesh,Storage,Hard Disk,3,24282,2060.42
+796,2026-05-15,Vivaan Reddy,Telangana,Furniture,Chair,1,17185,3588.88
+797,2026-06-09,Charvi Agarwal,Odisha,Electronics,Smart Watch,4,46131,4679.3
+798,2026-04-28,Imaran Bhatnagar,Assam,Accessories,Keyboard,2,41800,2650.87
+799,2025-11-10,Anjali Memon,Arunachal Pradesh,Electronics,Mobile,2,32989,4049.17
+800,2025-10-30,Varenya De,West Bengal,Electronics,Monitor,3,20736,2086.36
+801,2026-07-05,Udyati Som,Karnataka,Electronics,Laptop,5,34413,7694.79
+802,2025-10-06,Niharika Char,Bihar,Networking,Router,1,7524,2100.82
+803,2026-01-23,Kala Wagle,Assam,Storage,SSD,1,32525,1827.09
+804,2025-10-02,Theodore Babu,Odisha,Furniture,Table,3,25526,4593.37
+805,2026-04-18,Osha Chander,Mizoram,Accessories,Mouse,4,35018,8623.43
+806,2026-04-14,Jagrati Dyal,Uttarakhand,Electronics,Laptop,4,32402,6283.92
+807,2025-10-01,Tara Solanki,West Bengal,Electronics,Camera,3,21436,6128.4
+808,2025-11-07,Darika More,Tamil Nadu,Electronics,Printer,1,30387,5482.82
+809,2026-04-04,Jeevika Doshi,Goa,Networking,Router,1,18618,5525.05
+810,2025-10-08,Yadavi Gokhale,Mizoram,Electronics,Monitor,2,2185,632.97
+811,2026-03-28,Lucky More,Uttarakhand,Storage,Hard Disk,3,16209,3494.79
+812,2026-03-01,Chakrika Babu,Sikkim,Electronics,Smart Watch,5,36484,5946.56
+813,2026-05-30,Neha Lala,Tamil Nadu,Storage,SSD,5,24776,5279.17
+814,2026-03-13,William Sura,Uttarakhand,Accessories,Mouse,4,7086,1878.18
+815,2025-09-19,Vamakshi Gade,Goa,Accessories,Mouse,4,8298,938.33
+816,2026-08-07,Tamanna Bir,Tamil Nadu,Furniture,Chair,3,27314,2176.66
+817,2026-05-30,Watika Bahri,Jharkhand,Electronics,Printer,5,7824,1247.94
+818,2025-12-15,Hritik Mani,Himachal Pradesh,Networking,Router,3,13340,2861.91
+819,2025-12-30,Vasudha Gala,Chhattisgarh,Electronics,Smart Watch,3,23912,3744.5
+820,2026-01-25,Ranveer Patel,Goa,Storage,SSD,2,2858,338.91
+821,2026-02-28,Andrew Srinivas,Chhattisgarh,Storage,SSD,3,26339,4613.23
+822,2025-12-21,Shaurya Bora,Mizoram,Electronics,Speaker,2,29991,5770.09
+823,2026-01-11,Jackson Balasubramanian,Tamil Nadu,Electronics,Printer,5,21879,3946.58
+824,2026-06-28,Nathan Basak,West Bengal,Storage,Hard Disk,3,40022,3508.51
+825,2026-08-06,Banjeet Kumar,Chhattisgarh,Electronics,Monitor,1,7669,2001.98
+826,2025-09-12,Advaith Pingle,Nagaland,Electronics,Camera,1,7623,702.47
+827,2026-08-07,Anirudh Pall,Kerala,Furniture,Chair,2,41018,9114.46
+828,2025-10-29,Yashawini Chand,Goa,Furniture,Chair,4,43692,4780.61
+829,2025-11-07,Yatan Arora,Nagaland,Networking,Router,2,21236,5604.94
+830,2025-10-26,Osha Khurana,Punjab,Accessories,Mouse,2,3877,861.48
+831,2026-05-06,Vaishnavi Sani,Tamil Nadu,Electronics,Camera,3,7757,2227.78
+832,2026-03-14,Eshana Goyal,Sikkim,Electronics,Laptop,3,7857,606.02
+833,2026-03-26,Ekta Bava,Odisha,Storage,Hard Disk,5,48361,9801.13
+834,2025-12-08,Keya Gera,Tamil Nadu,Furniture,Chair,3,40095,3056.71
+835,2026-03-02,Sarthak Gandhi,Uttar Pradesh,Electronics,Smart Watch,4,22730,3465.15
+836,2025-12-12,Sanya Din,Odisha,Electronics,Smart Watch,3,32098,4588.1
+837,2026-05-25,Osha Singh,Goa,Electronics,Smart Watch,3,26393,7721.4
+838,2026-05-08,Samarth Kumar,Arunachal Pradesh,Furniture,Chair,5,28998,3642.11
+839,2025-10-23,Amaira Choudhary,Sikkim,Electronics,Headphones,3,15363,1023.06
+840,2026-08-07,Harrison Dua,Uttar Pradesh,Electronics,Camera,1,17666,1358.57
+841,2026-02-19,Upkaar Garg,Arunachal Pradesh,Storage,SSD,3,14933,2608.68
+842,2026-01-09,Gauri Bhandari,Maharashtra,Networking,Router,3,48083,12580.44
+843,2025-10-24,Wridesh Chana,Maharashtra,Electronics,Printer,4,12067,757.9
+844,2025-09-24,Udant Gara,Rajasthan,Electronics,Printer,4,29600,8042.06
+845,2025-11-26,Bishakha Tella,Sikkim,Electronics,Laptop,3,20996,2642.49
+846,2026-07-20,Irya Patel,Rajasthan,Electronics,Camera,2,35242,9880.59
+847,2026-04-28,Siya Magar,Madhya Pradesh,Furniture,Chair,4,24100,3462.97
+848,2025-12-30,Janaki Gill,Assam,Accessories,Mouse,2,4247,367.08
+849,2026-02-24,David Parmer,Andhra Pradesh,Accessories,Keyboard,3,8040,2097.29
+850,2026-06-01,Onveer Seshadri,Bihar,Furniture,Table,2,21630,2420.6
+851,2026-06-11,Isha Pillay,Meghalaya,Accessories,Keyboard,5,8810,2341.36
+852,2026-02-05,Lohit Mukherjee,Himachal Pradesh,Furniture,Chair,1,38995,3959.5
+853,2025-08-31,Benjamin Sundaram,Rajasthan,Electronics,Printer,4,48944,13302.86
+854,2026-03-09,Jonathan Sengupta,Uttar Pradesh,Electronics,Monitor,4,39068,9660.9
+855,2025-09-05,Leela Buch,Nagaland,Electronics,Printer,2,13609,2144.18
+856,2026-01-09,Girik Natt,Telangana,Furniture,Table,2,4479,1336.52
+857,2026-08-03,Max Chaudhuri,Telangana,Accessories,Keyboard,5,28424,4373.78
+858,2026-03-31,Lekha Konda,Karnataka,Accessories,Keyboard,3,31407,6738.04
+859,2026-06-27,Shivani Grewal,Uttar Pradesh,Electronics,Speaker,1,38423,6452.51
+860,2026-05-14,Amara Kakar,Andhra Pradesh,Furniture,Table,5,15418,3624.25
+861,2025-08-23,Charles Bumb,Madhya Pradesh,Furniture,Table,4,9438,726.85
+862,2026-04-22,Ganga Gaba,Meghalaya,Electronics,Printer,4,23231,5953.95
+863,2025-12-15,Jasmit Shere,Madhya Pradesh,Electronics,Headphones,4,19829,3026.64
+864,2026-04-15,Christopher Grover,Tamil Nadu,Electronics,Monitor,5,19450,5797.8
+865,2026-04-28,Pallavi Nath,Andhra Pradesh,Electronics,Monitor,3,30061,8823.73
+866,2026-06-20,Zinal Dora,Uttarakhand,Electronics,Camera,2,3087,174.8
+867,2026-06-09,Gunbir Dixit,Maharashtra,Storage,Hard Disk,4,41918,2482.92
+868,2026-07-25,Kamya Bumb,Uttarakhand,Accessories,Mouse,2,1447,429.14
+869,2026-04-24,Radha Chacko,Uttar Pradesh,Storage,Hard Disk,4,43106,7133.5
+870,2026-06-04,Amrita Pant,Uttarakhand,Networking,Router,3,30260,2123.39
+871,2026-03-02,Vrishti Ravi,Himachal Pradesh,Furniture,Table,2,27251,4977.35
+872,2026-02-25,Qabil Ratti,Sikkim,Networking,Router,5,20136,2950.29
+873,2025-09-20,Ladli Pandit,Gujarat,Electronics,Smart Watch,4,26691,3498.17
+874,2026-07-22,Zinal Bhandari,Arunachal Pradesh,Furniture,Chair,2,34331,4766.48
+875,2025-12-18,Ekansh Pandya,Chhattisgarh,Accessories,Keyboard,2,5258,439.35
+876,2025-08-22,Agastya Sinha,Odisha,Electronics,Laptop,5,18750,992.4
+877,2025-12-10,Unnati Deol,Arunachal Pradesh,Electronics,Speaker,3,42264,9122.46
+878,2026-01-04,Wishi Prakash,Manipur,Electronics,Headphones,5,16411,1062.83
+879,2026-04-05,Urvi Gaba,Uttarakhand,Storage,SSD,1,20752,5398.9
+880,2026-04-10,Gaurang Prabhu,Uttarakhand,Electronics,Printer,4,43189,9989.28
+881,2026-07-18,Chanakya Gade,Jharkhand,Accessories,Mouse,3,29174,8030.05
+882,2026-03-16,Theodore Chada,Punjab,Networking,Router,4,41492,10586.15
+883,2026-07-24,Samesh Nair,Jharkhand,Electronics,Printer,3,17109,1570.15
+884,2026-02-11,Caleb Sidhu,Karnataka,Storage,SSD,5,4937,1067.84
+885,2026-06-25,Vasana Sathe,Telangana,Furniture,Chair,4,35861,4745.0
+886,2026-02-08,Rayaan Shanker,Rajasthan,Electronics,Monitor,2,9459,1596.64
+887,2025-08-10,Om Rege,Sikkim,Electronics,Speaker,1,17003,4525.22
+888,2026-03-13,Omisha Lala,Bihar,Storage,Hard Disk,1,7394,466.71
+889,2026-04-23,Mugdha Yadav,Himachal Pradesh,Accessories,Mouse,4,34445,6663.3
+890,2025-11-29,Zarna Bahri,Mizoram,Storage,SSD,1,41908,4120.77
+891,2025-12-01,Girish Borah,Andhra Pradesh,Electronics,Headphones,1,13595,3111.42
+892,2025-09-30,Gaurangi Handa,Punjab,Electronics,Monitor,4,48556,3357.28
+893,2025-10-09,Yauvani Dua,Arunachal Pradesh,Electronics,Monitor,5,28943,7563.27
+894,2026-04-27,Xiti Chhabra,West Bengal,Electronics,Monitor,5,16680,4346.17
+895,2025-08-13,Oni Sathe,Karnataka,Electronics,Speaker,3,4258,1233.73
+896,2026-06-03,Varenya Sundaram,Goa,Electronics,Smart Watch,1,30388,3833.15
+897,2025-11-07,Ekantika Ganesh,Rajasthan,Accessories,Keyboard,5,12114,3325.96
+898,2025-11-05,Chandani Mand,Chhattisgarh,Electronics,Headphones,3,32175,8765.04
+899,2026-03-04,Jagat Zachariah,Tamil Nadu,Accessories,Keyboard,1,9304,910.22
+900,2025-09-12,Vedant Kumar,Tamil Nadu,Networking,Router,5,29802,1516.08
+901,2025-11-29,Jalsa Sandal,Gujarat,Storage,SSD,5,10465,1319.84
+902,2026-08-02,Girik D’Alia,Karnataka,Furniture,Chair,4,783,103.91
+903,2026-07-06,Oliver Kunda,Arunachal Pradesh,Electronics,Speaker,5,24212,2307.81
+904,2026-01-14,Advik Luthra,Mizoram,Electronics,Mobile,5,40714,9048.93
+905,2025-09-15,Mekhala Oak,Bihar,Storage,SSD,4,16706,1349.32
+906,2026-01-18,Banjeet Swamy,Punjab,Networking,Router,5,22469,5273.17
+907,2025-10-03,Daniel Vig,Sikkim,Storage,Hard Disk,2,49269,6105.29
+908,2025-09-15,Max Dewan,Andhra Pradesh,Electronics,Headphones,4,28029,3685.09
+909,2026-08-07,Sara Rana,Punjab,Electronics,Mobile,1,19087,5234.41
+910,2026-02-27,Mitesh Palan,Punjab,Electronics,Laptop,4,6106,1296.5
+911,2025-12-02,Nitesh Madan,Chhattisgarh,Electronics,Headphones,3,47873,6743.23
+912,2026-06-24,Sai Sem,Goa,Electronics,Laptop,3,11765,820.83
+913,2025-11-19,Krishna Parsa,Haryana,Furniture,Table,2,21649,6148.4
+914,2026-04-23,Idika Anand,Mizoram,Accessories,Keyboard,5,32821,2657.48
+915,2025-12-05,Peter Desai,Arunachal Pradesh,Networking,Router,4,14692,1742.07
+916,2026-06-14,Christopher Bhagat,Sikkim,Networking,Router,5,23214,3114.14
+917,2025-10-28,Leela Dugar,Uttarakhand,Storage,SSD,4,2661,782.05
+918,2025-08-10,Leena Dixit,Rajasthan,Accessories,Mouse,1,31264,1638.73
+919,2026-07-09,Balvan Savant,Rajasthan,Accessories,Keyboard,4,39357,5090.42
+920,2025-12-09,Daksh Dada,Goa,Accessories,Mouse,2,31353,6743.11
+921,2026-02-04,Garima Sen,Madhya Pradesh,Electronics,Laptop,4,26994,3970.29
+922,2026-03-18,Ijaya Tailor,Karnataka,Electronics,Headphones,4,9004,2553.03
+923,2026-06-19,Jagrati Chadha,Tamil Nadu,Storage,SSD,4,28283,7974.65
+924,2025-12-03,Ekanta Dugar,Manipur,Electronics,Mobile,3,19086,3842.22
+925,2025-11-05,Tarak Shroff,Uttarakhand,Accessories,Mouse,2,42148,4091.17
+926,2026-04-23,Advika Radhakrishnan,Karnataka,Electronics,Headphones,4,30980,3057.89
+927,2026-07-02,Tanveer Nadkarni,Andhra Pradesh,Accessories,Keyboard,5,36326,6037.05
+928,2026-03-11,Michael Sachdeva,Meghalaya,Storage,SSD,1,19893,2523.18
+929,2026-03-13,Triya Nagar,Meghalaya,Electronics,Camera,2,24079,5878.07
+930,2025-12-25,Widisha Khatri,Andhra Pradesh,Accessories,Keyboard,1,37178,10555.42
+931,2026-07-31,Agastya Bhandari,Haryana,Storage,Hard Disk,4,39845,7896.17
+932,2025-12-21,Widisha Borah,West Bengal,Electronics,Monitor,3,13713,872.2
+933,2026-07-31,Pranav Deshmukh,Manipur,Networking,Router,3,44697,10936.23
+934,2025-11-02,Hritik Tank,Punjab,Accessories,Mouse,5,34025,2653.15
+935,2025-10-24,Rachita Mitra,Punjab,Networking,Router,4,19876,2620.36
+936,2026-05-11,Meera Narain,Gujarat,Electronics,Camera,5,21769,1497.04
+937,2026-07-07,Charita Mishra,Goa,Electronics,Camera,5,12235,3366.53
+938,2026-02-01,Arin Peri,Telangana,Electronics,Smart Watch,1,31555,7471.29
+939,2026-02-07,Upadhriti Sanghvi,Chhattisgarh,Storage,SSD,5,49283,4258.92
+940,2026-03-16,Nathaniel Mann,Assam,Storage,Hard Disk,5,48355,4375.2
+941,2025-08-30,Qadim Rai,Tamil Nadu,Electronics,Smart Watch,3,42605,2262.66
+942,2025-10-29,Harsh Khurana,Manipur,Furniture,Chair,2,39558,3773.0
+943,2025-09-10,Robert Hans,Arunachal Pradesh,Electronics,Smart Watch,4,5207,1335.28
+944,2025-09-24,Hamsini Luthra,Gujarat,Storage,Hard Disk,4,12014,2087.69
+945,2026-02-22,Pavani Goyal,Madhya Pradesh,Storage,Hard Disk,1,47702,3913.29
+946,2026-02-26,Reva Badami,Goa,Furniture,Chair,3,16592,1924.98
+947,2026-04-14,Lipika Sathe,Telangana,Electronics,Laptop,4,18276,4917.8
+948,2026-03-20,Vidhi Garde,Assam,Electronics,Headphones,2,43789,10683.33
+949,2025-10-30,Sai Chadha,Meghalaya,Storage,SSD,2,23809,3930.36
+950,2026-06-14,Idika Tandon,Madhya Pradesh,Electronics,Mobile,3,21031,6129.51
+951,2025-08-12,Abha Jha,Meghalaya,Electronics,Laptop,4,1034,292.97
+952,2025-10-28,Varsha Kohli,Tripura,Electronics,Smart Watch,4,723,78.6
+953,2026-06-11,Bina Mani,Meghalaya,Furniture,Chair,3,534,158.04
+954,2026-05-12,Balhaar Loke,Odisha,Furniture,Table,3,22375,5063.53
+955,2025-11-07,Vihaan Dyal,Meghalaya,Electronics,Laptop,4,23576,2076.36
+956,2025-09-13,Yashodhara Amble,Assam,Electronics,Smart Watch,1,19306,5110.85
+957,2026-06-24,Samarth Dhawan,Punjab,Furniture,Table,1,6548,736.23
+958,2026-07-07,Widisha Mittal,Bihar,Electronics,Camera,3,1896,261.51
+959,2025-10-15,Indali Uppal,Mizoram,Electronics,Camera,1,30198,1872.77
+960,2026-01-23,Caleb Mani,Odisha,Accessories,Keyboard,5,36992,2225.97
+961,2026-07-20,Qadim Din,Sikkim,Furniture,Table,1,20351,4903.14
+962,2026-04-08,Jyoti Dada,West Bengal,Electronics,Speaker,1,29788,5810.27
+963,2026-03-09,Qadim Lal,Chhattisgarh,Storage,Hard Disk,3,8432,1341.12
+964,2026-06-07,Yachana Doctor,Goa,Furniture,Table,3,32233,5681.37
+965,2025-11-08,Leela Dugar,Madhya Pradesh,Storage,SSD,3,20762,2273.2
+966,2025-08-28,Tarak Nagarajan,Mizoram,Electronics,Smart Watch,5,31529,4758.94
+967,2026-07-26,Alexander Dey,Punjab,Electronics,Smart Watch,4,17703,3658.0
+968,2026-02-11,Ekapad Sarkar,Punjab,Accessories,Keyboard,5,21232,3713.42
+969,2026-04-22,Gautam Mani,Assam,Electronics,Camera,3,12967,1619.04
+970,2026-06-19,Gaurav Kibe,Mizoram,Electronics,Headphones,1,15882,918.43
+971,2025-09-16,Osha Dalal,Mizoram,Electronics,Headphones,4,11495,2258.09
+972,2025-08-27,Chaitanya Das,Arunachal Pradesh,Electronics,Printer,4,48084,6691.49
+973,2026-08-03,Nitara Rai,Sikkim,Furniture,Chair,3,34206,2758.15
+974,2026-05-09,Ati Dhar,Manipur,Electronics,Smart Watch,3,28739,7864.78
+975,2026-04-27,Hema Dara,Odisha,Electronics,Camera,4,43108,2258.5
+976,2026-05-13,Hema Chada,Uttarakhand,Storage,Hard Disk,3,45771,2578.84
+977,2026-04-17,Gopal Setty,Mizoram,Electronics,Headphones,1,23233,6391.18
+978,2026-05-27,Chanchal Nagar,Andhra Pradesh,Electronics,Headphones,1,45133,10729.33
+979,2025-10-01,Anjali Mutti,Gujarat,Electronics,Smart Watch,3,18281,3606.74
+980,2026-06-08,Ishanvi Chacko,Madhya Pradesh,Networking,Router,3,34929,8328.22
+981,2025-12-19,Jagrati Barman,Andhra Pradesh,Electronics,Camera,4,24580,4109.46
+982,2026-04-05,Gaurav Shan,Karnataka,Furniture,Table,5,32827,5110.37
+983,2026-01-05,Devika Raval,Tripura,Electronics,Monitor,3,26736,4496.46
+984,2026-02-12,Libni Ghose,Punjab,Networking,Router,1,48024,14106.28
+985,2026-01-13,Jasmit Sagar,Tamil Nadu,Accessories,Mouse,3,14070,1680.67
+986,2026-01-30,Anvi Oza,Jharkhand,Electronics,Printer,3,33476,9786.77
+987,2026-01-30,Onveer Nanda,Jharkhand,Furniture,Chair,3,46010,5309.66
+988,2026-07-30,Chandresh Bakshi,Assam,Electronics,Speaker,5,12990,3156.39
+989,2026-05-16,Varsha Pillai,Punjab,Electronics,Monitor,4,27292,6677.82
+990,2026-06-27,Chaman Setty,Assam,Furniture,Table,2,49312,10870.29
+991,2026-07-18,Vaishnavi Apte,Telangana,Storage,SSD,1,38967,5924.31
+992,2026-07-21,Bhavani Tailor,Maharashtra,Networking,Router,1,43343,2457.59
+993,2026-07-23,Mohammed Kumer,Punjab,Electronics,Monitor,1,46917,4776.44
+994,2025-11-07,Tristan Sawhney,Jharkhand,Electronics,Smart Watch,3,7192,1862.85
+995,2026-08-02,Yamini Din,Karnataka,Furniture,Table,2,45359,8109.77
+996,2026-03-12,Rachit Chhabra,Rajasthan,Electronics,Mobile,4,2176,115.2
+997,2026-01-29,Naveen Koshy,Tamil Nadu,Electronics,Mobile,3,19872,3726.72
+998,2026-03-15,Ati Wali,Maharashtra,Storage,SSD,1,12066,3562.75
+999,2025-11-13,Idika Chawla,Telangana,Storage,SSD,5,39004,6683.51
+1000,2025-08-19,Tanay Rama,Nagaland,Networking,Router,4,20410,3912.95
