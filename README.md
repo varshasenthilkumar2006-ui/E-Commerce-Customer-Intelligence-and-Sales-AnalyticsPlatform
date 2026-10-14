@@ -74,6 +74,7 @@ Project Review: E-Commerce Sales Analytics Dashboard
 * Improves understanding of product and category performance.
 
 
+
 #OUTPUT
 <img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/76be49bc-3e4a-4e4c-b1b4-391a53cb0e6e" />
 <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/fb360572-6353-4b1c-baa3-2c467c339cb5" />
