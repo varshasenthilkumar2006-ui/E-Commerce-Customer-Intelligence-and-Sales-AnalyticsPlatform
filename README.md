@@ -3,7 +3,7 @@ Abstract
 
 The E-Commerce Sales Analytics Dashboard is a Python-based project developed to analyse and visualize sales data. Using Pandas, Matplotlib, and Streamlit, it provides key performance indicators, interactive charts, and filters to explore sales, profit, and product performance. The dashboard helps users understand sales trends and make data-informed decisions. The project uses a generated sample dataset for demonstration purposes.
 
-
+#GOOGLE DRIVE LINK : https://drive.google.com/drive/folders/17_1pT_0FOQUwU87RZTilgrUB-X6FhBw4?usp=sharing
 
 Project Review: E-Commerce Sales Analytics Dashboard
 
